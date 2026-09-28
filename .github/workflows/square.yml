@@ -1,9 +1,12 @@
 name: Binance Square Auto Post
 
 on:
-  workflow_dispatch: {} # manual trigger button in the Actions tab
   schedule:
-    - cron: "0 2 * * *" # 09:00 WIB daily — adjust to taste (cron is UTC)
+    - cron: '0 0 * * *'   # subah
+    - cron: '0 6 * * *'   # dopahar
+    - cron: '0 12 * * *'  # shaam
+    - cron: '0 17 * * *'  # raat
+  workflow_dispatch:      # manual run bhi rahega
 
 permissions:
   contents: write # needed to commit data/posts.json back to the repo
