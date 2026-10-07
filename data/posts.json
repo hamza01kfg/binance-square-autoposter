@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-07T03:15:59.409Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $83,974, down 1.8% on the day, after peaking near $86,699 and finding support around $83,577. Volume held near 14.9k BTC, pushing quote volume past $1.27 B.\n\n$ETH fell 3.3% to $2,610, hitting a high of $2,725 and a low of $2,592. Trade flow stayed strong with roughly 319k ETH changing hands, totaling about $855 M in quote volume.\n\n$BNB dropped 2.1% to $765, after testing $786 before settling near $759. It moved about 116k BNB, generating $90.4 M in quote volume.\n\nWatch the $BTC order book depth as it edges toward the $84,500-$85,000 range, any shift there could set the tone for the next session.",
+    "postId": 374586406123101,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/374586406123101?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-06T21:30:29.307Z",
     "theme": "quiet-movers",
     "text": "$BNB's been unusually tight, its 24-hour swing was just 1.46 % versus the typical 2.70 %, so it moved roughly half as much as usual.\n\n$ETH also kept a low profile, trading in a 1.54 % band compared to its normal 2.60 % range, about a third tighter than it normally does.\n\nBoth pairs dipped a bit, BNB down 0.8 % and ETH off 0.6 %, but nothing wild, just a calm day on the charts.",
@@ -201,12 +208,5 @@
     "text": "$AVAX jumped around a lot, its 24-hour swing hit 14.76 % while it usually sits near 7.67 %, that's more than double its normal range.\n\n$ETH was almost flat; it moved about 3.59 % today versus a typical 3.02 % range, barely a change.\n\nOverall, AVAX was the only token that really broke its usual band. Nothing crazy elsewhere.",
     "postId": 372021442154270,
     "shareLink": "https://app.binance.com/uni-qr/cpos/372021442154270?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-09-29T17:24:58.688Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped 1.07% to $83,116, trading between $84,564 high and $82,776 low, volume about 13.6k. $ETH fell 1.21% to $2,675, its range $2,749-$2,652 with 310k trades. $BNB dropped 2.28% to $752.6, barely nudged above $752.2, peaked at $771, volume 122.6k.\n\nWatch the $BTC-$ETH spread; any widening could hint at risk-off pressure creeping in.",
-    "postId": 371963898269236,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/371963898269236?r=B492ZGBN&l=en"
   }
 ]
