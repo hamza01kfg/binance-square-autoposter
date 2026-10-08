@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08T03:31:39.166Z",
+    "theme": "relative-strength",
+    "text": "$ETH slipped 0.23% against $BTC, so it's losing a bit of ground in the pair. Meanwhile $BTC dropped 1.22% in the last 24 h, while the 20-coin basket of alts actually rose about 0.38%. Bottom line: BTC's underperforming the top-traded alts, and ETH isn't gaining any relative strength versus Bitcoin. Just a modest pullback across the board.",
+    "postId": 374944149749210,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/374944149749210?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-07T21:50:28.675Z",
     "theme": "daily-recap",
     "text": "$BTC fell to $83,200.5, down 2.79% from yesterday. It bounced off a high of $85,657.01 but couldn't hold, sliding to a low of $82,787.25. Volume sat around 20,666 BTC.\n\n$ETH slipped 4.78% to $2,567.4. The rally peaked at $2,700.54 before retreating to $2,538.06, with 429,850 ETH changing hands.\n\n$BNB dropped 1.27% to $769.5 after testing $780.73 and finding support near $758.57. Roughly 128,800 BNB traded.\n\nWatch the $BTC 24-hour range break of $84,500, that level could set the tone for the next session.",
@@ -201,12 +208,5 @@
     "text": "$BTC's at $83,790, up 0.37% in 24h. It bounced from a low of $82,956, nudged a high of $85,649 before settling near the top of the range. Volume sat around 18.2k BTC, translating to about $1.53 B in quote volume.\n\n$ETH slipped 0.13% to $2,683.37. The pair traded between $2,656.92 and $2,738.51, barely breaking the $2.7K barrier. Volume was hefty, roughly 282k ETH or $759 M in quote terms.\n\n$BNB led the pack, climbing 1.37% to $768.17. It swung from $755.99 up to $779.42, holding near the upper end. Trade activity hit 123.7k BNB, about $94.8 M in quote volume.\n\nAll three stayed inside tight daily ranges, with BNB showing the clearest edge. No wild swings, just a steady shuffle.",
     "postId": 372375533907532,
     "shareLink": "https://app.binance.com/uni-qr/cpos/372375533907532?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-09-30T17:22:29.893Z",
-    "theme": "tokenized-stocks",
-    "text": "$NVDAB is cruising around 230.55 USDT, up 0.672% after hitting a high of 232.49 and a low of 227.19. Volume's solid at 11.2 M USDT, so the tokenized stock kept moving while the regular market was asleep.\n\n$SPYB nudged up 0.591% to 767.53 USDT, squeezed between a 769.4 high and 763 low. Around 291 K USDT traded, showing the S&P 500 ETF bStock still finds action after hours.\n\n$MUB barely budged, flat at 1,070.99 USDT, trading in a tight 1,064.8-1,083.73 range with roughly 5.3 M USDT changing hands. Even without a price swing, the Micron tokenized stock stayed liquid round the clock.\n\nAll three keep ticking 24/7, so you can watch them anytime, not just when NYSE opens. No drama, just the usual after-hours flow.",
-    "postId": 372317183082240,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/372317183082240?r=B492ZGBN&l=en"
   }
 ]
