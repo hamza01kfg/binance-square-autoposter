@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-09T13:01:10.175Z",
+    "theme": "daily-recap",
+    "text": "$BTC nudged up to $83,076, +0.97% in 24 h, hitting a high of $83,529 before settling near the low-end of the day's range.\n\n$ETH slipped to $2,500, down 1.24%, with the swing between $2,406 and $2,542 showing a tighter band than Bitcoin's.\n\n$BNB fell to $742.6, off 2.26%, trading between $717 and $761 and dragging volume under $193K.\n\nWatch the $BTC price action around the $83,300 to $83,600 zone; a break either side could set the tone for the next session.",
+    "postId": 375438008550967,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/375438008550967?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-09T03:36:58.352Z",
     "theme": "relative-strength",
     "text": "$ETH is at 0.03028 BTC and slipped 2.291% against $BTC. Meanwhile $BTC fell 0.737% over 24 h, but the 20-coin basket only dropped about 0.454%, so BTC outperformed the average alt. ETH's relative weakness and BTC's slight edge over the basket sum up a modestly bearish tilt for the top pair, with everything else moving in the same direction but a touch slower. Nothing wild, just a quiet slide across the board.",
@@ -201,12 +208,5 @@
     "text": "$BTC up 2.37% in the last 24 h. The 20-coin basket barely budged, down 0.07%, so BTC's pulling ahead of the average alt. $ETH's price in BTC slipped 0.93%, meaning it's losing relative strength against $BTC. Overall, the big coin's the only one showing clear upside while the rest of the market stays flat. Nothing wild, just $BTC taking the lead.",
     "postId": 372814384822767,
     "shareLink": "https://app.binance.com/uni-qr/cpos/372814384822767?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-01T21:42:07.516Z",
-    "theme": "relative-strength",
-    "text": "$ETH is down 0.717% against $BTC, so it's losing a bit of ground in the BTC-pair. Meanwhile $BTC nudged up 0.916% over the last 24 h, while the 20-token basket slipped 0.864% on average. Bottom line: BTC's beating the alt crowd and ETH's lagging behind BTC right now. Nothing wild, just a modest spread between the leaders.",
-    "postId": 372734883501578,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/372734883501578?r=B492ZGBN&l=en"
   }
 ]
