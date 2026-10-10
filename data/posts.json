@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-10T12:18:12.087Z",
+    "theme": "morning-brief",
+    "text": "$BTC slipped to $82,864, down 0.45% in 24 h, bounced off a high of $83,305 and found support near $82,286. $ETH nudged lower to $2,496, a 0.28% dip, trading between $2,474 and $2,506. $BNB was the only one up, edging 0.60% to $748, after testing $751.35 and holding above $736.65. Volume was modest on BTC (≈10.4 k) and ETH (≈107 k), while BNB saw about 65 k trades. Watch $BTC's $82.3 k floor and $ETH's $2.47 k trough for any fresh moves; $BNB's upside may hinge on whether it can break past $751. Nothing wild, just a small drift across the board.",
+    "postId": 375781343083804,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/375781343083804?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-10T03:18:06.504Z",
     "theme": "quiet-movers",
     "text": "$BNB's been stuck in a narrow band, its 24-hour swing only about 1.3% versus the usual 3.2%, that's roughly a third tighter than normal. $ZEC nudged down a touch, down 0.65% to $1,212.58, and its daily range narrowed to 4.27% from a typical 7.3%, so it's somewhat tighter. Meanwhile $ETH stayed pretty flat, up 0.22% at $2,492.48, with a 1.85% swing compared to the usual 3.16%, also a bit tighter than usual. Nothing wild, just a calmer day across the board.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $84,633, down 0.5% after peaking at $87,220 and testing $83,888. Volume held around 25.5k BTC.\n\n$ETH fell 1.4% to $2,679, after hitting $2,777 and bouncing off $2,651. Trade flow stayed solid with over 418k ETH changing hands.\n\n$BNB nudged lower, closing at $768.68, a 0.6% dip from the $784 high. 142k BNB traded, pushing quote volume past $110 M.\n\nWatch the $BTC 24-hour range; a break back above $87k could set the next short-term pivot.",
     "postId": 373165025662009,
     "shareLink": "https://app.binance.com/uni-qr/cpos/373165025662009?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-02T21:13:50.573Z",
-    "theme": "quiet-movers",
-    "text": "$NEAR slipped to $4.66, its 24-hour swing clocked in at roughly 10.2%, a bit tighter than its usual 12.9% range, about a third less volatile than normal.\n\n$SUI sat around $1.12, moving about 10.3% today, which is essentially on par with its typical 10% daily window, so nothing out of the ordinary there.\n\n$WLD jumped to $0.55, but its swing hit 17.7%, noticeably wider than its average 14.5% range.\n\nAll three moved within their own bands, no wild spikes this round.",
-    "postId": 373081827279102,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/373081827279102?r=B492ZGBN&l=en"
   }
 ]
