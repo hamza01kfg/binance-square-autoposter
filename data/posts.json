@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-10T20:31:41.054Z",
+    "theme": "tokenized-stocks",
+    "text": "$MUB is hanging at 1,036.68 USDT, up 0.847% after nudging a high of 1,037.56 and finding support near 1,027.97. Volume's modest at ~493,610 USDT, so the move's staying in-session while markets are closed elsewhere.\n\nCircle's tokenized stock $CRCLB jumped 1.548% to 85.93 USDT, flashing a high of 86.12 and a low of 84.45. Over 3 million USDT traded, showing the 24/7 vibe is pulling action even after the crypto day-break.\n\nS&P 500 ETF bStock $SPYB barely budged, edging up 0.044% to 779.44 USDT. It peaked at 780.57, dipped to 778.66, with just 115,542 USDT changing hands.\n\nAll three are doing their thing around the clock, no overnight snooze.",
+    "postId": 375902621452889,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/375902621452889?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-10T16:43:33.353Z",
     "theme": "morning-brief",
     "text": "$BTC held near $83,057, up 0.4% in 24 h. It nudged a touch higher to $83,081 before slipping back to $82,286 low, then settled just under the day's high.\n\n$ETH closed at $2,508, gaining 0.7%. The pair swung between $2,474 and $2,518, topping out near the high before easing back into the mid-range.\n\n$BNB led the trio at $750.35, up 1.4% with volume over 63k. It bounced from a low of $737.24 to a high of $753.86, ending the session comfortably above the day's peak.\n\nAll three showed modest upside and stayed inside tight ranges. No big surprises, just a steady climb across the board.",
@@ -201,12 +208,5 @@
     "text": "$SOL slipped a bit, ending the day around $119.5. Its 24-hour swing was just under 3%, roughly half of its usual 4% range, a bit tighter than normal.\n\n$ETH held near $2,680, down about 0.7%. The coin's daily band was under 2%, roughly 30% narrower than its typical swing, so it moved in a tighter corridor.\n\n$NEAR hovered at $4.63, down 4%. Its price range was about 6.2%, almost half of the 12% it normally sees, making the move somewhat tighter too. Nothing wild, just a calmer day across the board.",
     "postId": 373351818367198,
     "shareLink": "https://app.binance.com/uni-qr/cpos/373351818367198?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-03T11:29:18.241Z",
-    "theme": "relative-strength",
-    "text": "$BTC slipped 2.06% in the last 24 h. $ETH's price in BTC fell 0.252%, so ETH is losing a bit of ground against Bitcoin. The 20-coin basket of top alts dropped 1.02% on average, meaning the whole alt set underperformed $BTC but still outpaced $ETH's relative move. Bottom line: Bitcoin's the strongest player, ETH's lagging a touch, and the broader alt market is sitting between them. Nothing wild, just a steady tilt toward BTC.",
-    "postId": 373292065295073,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/373292065295073?r=B492ZGBN&l=en"
   }
 ]
