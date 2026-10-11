@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-11T20:50:53.968Z",
+    "theme": "daily-recap",
+    "text": "$BTC closed at $83,694, up 0.75% with a high of $84,199 and a low of $82,805. Volume hit about 7,245 BTC, pushing quote volume past $603 M.\n\n$ETH nudged to $2,538, gaining 1.13%; it peaked at $2,555 and found a floor around $2,498. Trade flow was solid, ~201 K ETH moving $506 M in quote terms.\n\n$BNB sat at $753.6, barely up 0.33% after touching $758.44 and bottoming near $744.8. Around 51.6 K BNB changed hands, $38.7 M in quote volume.\n\nWatch the $BTC order book depth as it approaches the $84,200 resistance, any shift there could set the tone for the next session.",
+    "postId": 376261238215490,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/376261238215490?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-11T17:09:21.976Z",
     "theme": "breakout-watch",
     "text": "$CFX swung hard, covering a 21.2% range in 24 h, that's more than twice its normal daily swing.\n\n$STRK wasn't far behind, ticking a 27.7% range, noticeably wider than its usual 19.8% band.\n\n$NEAR barely nudged out of its comfort zone, moving 12.6% versus a typical 12.1%, basically flat.\n\nNothing crazy beyond the numbers; just a wild ride for $CFX and $STRK, while $NEAR stayed steady.",
@@ -201,12 +208,5 @@
     "text": "$CBRSB just ripped up 3.88% to 184.18 USDT, hit a high of 188.5 and bounced off a 177.3 low. Volume's solid at about 1.5 M USDT, so the tokenized stock kept the action rolling well into the night.\n\n$SNDKB's move was almost flat, up 0.134% to 1,719 USDT, swinging between 1,715.19 and 1,719.92. Trade flow sat around 548.5 K USDT, enough to keep the 24/7 market humming without any drama.\n\n$SPYB barely budged, up 0.017% to 770.91 USDT, range-bound 770.54-771.37 with roughly 80 K USDT changing hands. All three bStocks are doing their thing around the clock, no big surprises, just steady crypto-style trading.",
     "postId": 373716254035897,
     "shareLink": "https://app.binance.com/uni-qr/cpos/373716254035897?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-04T12:10:25.144Z",
-    "theme": "quiet-movers",
-    "text": "$XRP's 24h swing was just 1.39 % while it usually roams around 4 %, so it's about a third tighter than normal. $ETH barely budged either, 1.13 % range versus a typical 2.76 %, also roughly a third tighter. $QNT was similarly quiet, moving only 12.24 % compared with its usual 33.79 % swing, again about a third of the norm. All three sat in a much tighter band today, nothing wild, just a calm day on the charts.",
-    "postId": 373656064033927,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/373656064033927?r=B492ZGBN&l=en"
   }
 ]
