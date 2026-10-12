@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-12T23:33:10.754Z",
+    "theme": "morning-brief",
+    "text": "$BTC slid to $81,978.52, down 2.06% in 24 h. It hit a high of $84,352 before slipping back, barely clearing $81,800 on the low side. Volume sat around 13,314 BTC, pushing quote volume past $1.1 B.\n\n$ETH fell 3.04% to $2,458.05. The pair peaked at $2,579.88 and found support near $2,450.69. Heavy trading showed up in the 269,484 ETH volume, with quote volume near $683 M.\n\n$BNB dropped 2.45% to $735.48. It couldn't break above $758.03 and lingered close to its $733.88 floor. Volume hit 106,867 BNB, generating about $80 M in quote volume.\n\nAll three tokens lost ground, with BTC and ETH testing their recent tops and BNB hugging its lower range. Keep an eye on whether any of them reclaim those highs.",
+    "postId": 376655014605169,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/376655014605169?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-12T20:41:12.858Z",
     "theme": "daily-recap",
     "text": "$BTC slipped to $83,080, down 0.7% after hitting $84,352 and testing $82,311 low. $ETH nudged lower to $2,522.84, a 0.55% dip, with the day's high at $2,579.88 and the floor near $2,504.26. $BNB fell 0.75% to $747.67, after a brief run up to $758.03 and a trough around $742.61.\n\nVolume stayed solid: BTC traded about 12.2k coins, ETH moved over 253k, BNB saw roughly 99k.\n\nWatch the $ETH price action around the $2,500-$2,550 band; any bounce or break could set the tone for the next session.",
@@ -201,12 +208,5 @@
     "text": "$BTC up 0.34% in the last 24 h. $ETH stayed flat against BTC, eth/btc is still 0.03161, no change. The 20-coin basket jumped about 1.77%, so the alts are beating $BTC hands-down. ETH isn't gaining any ground on Bitcoin, but the broader alt set is pulling ahead. Nothing wild, just the usual spread between BTC and the rest.",
     "postId": 374128289794893,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374128289794893?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-05T14:19:37.923Z",
-    "theme": "breakout-watch",
-    "text": "$ADA's 24-hour swing hit about 11.9%, almost 1.8 times its usual daily range, that's noticeably wider than normal. It also nudged up 12.3% on the day, sitting around $0.2745.\n\n$BNB moved within a 3% band, barely above its typical range, and was up roughly 0.7% at $791.76. Nothing crazy there.\n\n$BTC's range stayed close to 2.2%, actually a touch tighter than its week-average, and it crept up 1.4% to $86,410.\n\nAll three tickers just did their thing; $ADA was the only one that really broke out of its norm.",
-    "postId": 374041713935454,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374041713935454?r=B492ZGBN&l=en"
   }
 ]
