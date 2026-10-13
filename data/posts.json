@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-13T18:44:04.555Z",
+    "theme": "morning-brief",
+    "text": "$BTC's at $83,102, up 0.74% in 24h. It hit a high of $84,168 before slipping to a low of $81,034, so the rally's been a bit choppy but still net-positive.\n\n$ETH dropped to $2,507, down 0.32%. The pair bounced between $2,409 and $2,539, ending the day near the lower end of that range.\n\n$BNB slid to $741, off 0.56%. It swung from $722 up to $748 before settling back, showing a modest pullback after testing the top of the band.\n\nAll three sat in tight ranges, volume staying solid. No wild moves, just a quiet shuffle across the board.",
+    "postId": 376937858920952,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/376937858920952?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-13T14:00:21.854Z",
     "theme": "relative-strength",
     "text": "$ETH slipped 1.89% against $BTC, so it's losing ground in the BTC pair. Meanwhile $BTC nudged up 0.31% over the last 24 hours. The 20-coin basket's average fell 5.20%, meaning the alt crowd is underperforming both $BTC and $ETH. Bottom line: $BTC is the only one holding its own, $ETH's relative strength is fading, and the broader alt set is taking a hit. Nothing wild, just a modest BTC edge today.",
@@ -201,12 +208,5 @@
     "text": "$RLC exploded up 52.5% to $0.8888, hitting a high of $1.077 after a dip down to $0.524. $FIL nudged 5.4% higher, closing at $1.1539 and staying in a tight $1.0756-$1.211 range. Meanwhile $SUI fell 2.7% to $1.1902, sliding from a high of $1.2323 to a low of $1.176. Leaders are racking up volume in the 60-30 M USDT range, while the laggard's 78 M USDT flow can't stop the drop. Just a quick heads-up on who's pulling ahead and who's slipping.",
     "postId": 374378712035923,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374378712035923?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-06T03:48:56.325Z",
-    "theme": "relative-strength",
-    "text": "$ETH/$BTC is at 0.03155, down 0.032% versus $BTC. Meanwhile $BTC slipped 0.9% in the last 24 h. The 20-coin basket of top alts surged 5.31%, leaving $BTC trailing the average alt pack. So $BTC's underperforming while $ETH is losing a tiny bit of ground to $BTC, and the broader alt set is clearly the stronger side today. Nothing wild, just alts taking the lead.",
-    "postId": 374240609180277,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374240609180277?r=B492ZGBN&l=en"
   }
 ]
