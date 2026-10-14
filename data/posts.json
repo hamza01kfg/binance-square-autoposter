@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14T16:17:11.672Z",
+    "theme": "quiet-movers",
+    "text": "$NEAR slipped to $4.88, down about 2% in 24 h. Its daily swing was only 7.8%, roughly a third tighter than the typical 14.8% range.\n\n$BNB sat around $728, also down a bit over 2%. The price moved just 2.6% today, which is noticeably tighter than its usual 3.3% swing.\n\nBoth pairs kept the action muted compared with their norm. Nothing wild happened; just a calmer day for those two.",
+    "postId": 377255655642178,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377255655642178?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-14T11:37:21.008Z",
     "theme": "relative-strength",
     "text": "$ETH held steady against $BTC at 0.03001, so no relative gain there. $BTC slipped 0.079% over 24 h, while the 20-coin basket dropped about 0.225%, meaning Bitcoin outperformed the average alt. ETH's flat move means it didn't lose ground, but it also didn't pull ahead. Overall the market's been a mild pullback, with BTC holding the edge and alts taking the bigger hit. Nothing wild, just a modest tilt toward Bitcoin.",
@@ -201,12 +208,5 @@
     "text": "$BTC slid to $83,500, down 3.1% on the day, after peaking near $86,700 and testing the $83,300 low. $ETH took a bigger hit, dropping 5.4% to $2,566, with the high at $2,725 and the floor around $2,552. $BNB fell 2.3% to $767, after bouncing off a $786 top and finding support near $759.\n\nWatch the $ETH 24-hour volume, over 435k trades moved more than $1.15 B in quote terms; any shift there could hint at the next swing.",
     "postId": 374731710213094,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374731710213094?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-07T03:15:59.409Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped to $83,974, down 1.8% on the day, after peaking near $86,699 and finding support around $83,577. Volume held near 14.9k BTC, pushing quote volume past $1.27 B.\n\n$ETH fell 3.3% to $2,610, hitting a high of $2,725 and a low of $2,592. Trade flow stayed strong with roughly 319k ETH changing hands, totaling about $855 M in quote volume.\n\n$BNB dropped 2.1% to $765, after testing $786 before settling near $759. It moved about 116k BNB, generating $90.4 M in quote volume.\n\nWatch the $BTC order book depth as it edges toward the $84,500-$85,000 range, any shift there could set the tone for the next session.",
-    "postId": 374586406123101,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374586406123101?r=B492ZGBN&l=en"
   }
 ]
