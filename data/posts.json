@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14T20:31:34.900Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $81,825, down 1.63% after hitting a high of $84,147. Volume sat around 17.6k BTC, so the dip had decent bite.\n\n$ETH fell harder, 3.42% off its peak $2,530, closing at $2,420.98. Trade flow was solid, over 272k ETH changed hands, pushing quote volume past $672 M.\n\n$BNB barely budged on the upside, hovering at $728.90, just 1.75% lower from $747. It squeezed out a tiny range of $728-$747 with 79.8k BNB traded, pulling $58.9 M in quote volume.\n\nWatch the $BTC 24-hour low-high spread; if it narrows back toward the $81.5k-$82k band, we'll see whether the recent sell-off was just a pause or the start of a steadier slide.",
+    "postId": 377318173881691,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377318173881691?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-14T16:17:11.672Z",
     "theme": "quiet-movers",
     "text": "$NEAR slipped to $4.88, down about 2% in 24 h. Its daily swing was only 7.8%, roughly a third tighter than the typical 14.8% range.\n\n$BNB sat around $728, also down a bit over 2%. The price moved just 2.6% today, which is noticeably tighter than its usual 3.3% swing.\n\nBoth pairs kept the action muted compared with their norm. Nothing wild happened; just a calmer day for those two.",
@@ -201,12 +208,5 @@
     "text": "$SAND surged 22.3% to $0.080, trading between $0.065 and $0.088 and pulling $42.6 M in volume. $NEAR nudged up 3% to $5.20, stayed tight around $5.25-$4.87 and logged $145 M of turnover. Meanwhile $UNI tumbled almost 10% to $7.83, its low hit $7.77 after a high of $8.69, with $82.3 M traded. The market's pushing sand-based playouts forward while the Uniswap token got left in the dust.",
     "postId": 374807171257110,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374807171257110?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-07T13:07:14.055Z",
-    "theme": "daily-recap",
-    "text": "$BTC slid to $83,500, down 3.1% on the day, after peaking near $86,700 and testing the $83,300 low. $ETH took a bigger hit, dropping 5.4% to $2,566, with the high at $2,725 and the floor around $2,552. $BNB fell 2.3% to $767, after bouncing off a $786 top and finding support near $759.\n\nWatch the $ETH 24-hour volume, over 435k trades moved more than $1.15 B in quote terms; any shift there could hint at the next swing.",
-    "postId": 374731710213094,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374731710213094?r=B492ZGBN&l=en"
   }
 ]
