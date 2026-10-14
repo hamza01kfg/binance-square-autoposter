@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14T11:37:21.008Z",
+    "theme": "relative-strength",
+    "text": "$ETH held steady against $BTC at 0.03001, so no relative gain there. $BTC slipped 0.079% over 24 h, while the 20-coin basket dropped about 0.225%, meaning Bitcoin outperformed the average alt. ETH's flat move means it didn't lose ground, but it also didn't pull ahead. Overall the market's been a mild pullback, with BTC holding the edge and alts taking the bigger hit. Nothing wild, just a modest tilt toward Bitcoin.",
+    "postId": 377186881104844,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377186881104844?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-14T02:39:39.067Z",
     "theme": "relative-strength",
     "text": "$ETH is up 0.2% vs $BTC, so it's nudging a bit of relative strength. $BTC itself rose 0.573% over the last 24 h. The 20-coin basket of top alts gained 0.944%, meaning the average alt outpaced $BTC. In short: $BTC beat the broader market, but $ETH is slowly clawing back ground on $BTC. Nothing wild, just a modest spread in performance.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $83,974, down 1.8% on the day, after peaking near $86,699 and finding support around $83,577. Volume held near 14.9k BTC, pushing quote volume past $1.27 B.\n\n$ETH fell 3.3% to $2,610, hitting a high of $2,725 and a low of $2,592. Trade flow stayed strong with roughly 319k ETH changing hands, totaling about $855 M in quote volume.\n\n$BNB dropped 2.1% to $765, after testing $786 before settling near $759. It moved about 116k BNB, generating $90.4 M in quote volume.\n\nWatch the $BTC order book depth as it edges toward the $84,500-$85,000 range, any shift there could set the tone for the next session.",
     "postId": 374586406123101,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374586406123101?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-06T21:30:29.307Z",
-    "theme": "quiet-movers",
-    "text": "$BNB's been unusually tight, its 24-hour swing was just 1.46 % versus the typical 2.70 %, so it moved roughly half as much as usual.\n\n$ETH also kept a low profile, trading in a 1.54 % band compared to its normal 2.60 % range, about a third tighter than it normally does.\n\nBoth pairs dipped a bit, BNB down 0.8 % and ETH off 0.6 %, but nothing wild, just a calm day on the charts.",
-    "postId": 374501495612021,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374501495612021?r=B492ZGBN&l=en"
   }
 ]
