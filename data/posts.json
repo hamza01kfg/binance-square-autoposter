@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-15T16:04:46.262Z",
+    "theme": "daily-recap",
+    "text": "$BTC ended the day at $82,310, up 0.78% after peaking at $82,631 and testing a low of $79,800. Volume was about 22,593 BTC, moving roughly $1.84 B in quote.\n\n$ETH closed near $2,438, a modest 0.20% gain. The pair hit $2,453.4 on the upside, found support around $2,318, and churned 495,352 ETH (~$1.18 B) in the last 24 h.\n\n$BNB nudged higher to $732.83, +0.47%, with a high of $734.25 and a low of $708.64. Traders swung about 153,580 BNB, swapping $110.9 M worth.\n\nWatch the $BTC 24-hour low-high range; if price stays above $80 K it'll test the next resistance band around $84 K.",
+    "postId": 377606496977304,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377606496977304?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-15T11:15:41.426Z",
     "theme": "relative-strength",
     "text": "$ETH slipped 2.765% against $BTC, so it's losing ground in the pair. $BTC itself fell 2.959% over 24 h. The 20-coin basket of top alts dropped 6.277%, that's a steeper slide than $BTC's loss. In short, $BTC outperformed the alt basket, while $ETH is the weaker link versus $BTC. Nothing wild, just a broader pull-back across the board.",
@@ -201,12 +208,5 @@
     "text": "$MET surged 43.2% to $0.4615, hitting $0.5468 on the way up, while volume topped 51 M USDT. $PUMP slipped 8.9% to $0.00575, barely nudging above $0.0065 and still moving 62 M USDT. $ZEC dropped 8% to $1,211, its low was $1,194.5 and it churned over 212 M USDT. One pair roaring, two tumbling, just how the 24-hour swing looks.",
     "postId": 375087549951338,
     "shareLink": "https://app.binance.com/uni-qr/cpos/375087549951338?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-08T03:31:39.166Z",
-    "theme": "relative-strength",
-    "text": "$ETH slipped 0.23% against $BTC, so it's losing a bit of ground in the pair. Meanwhile $BTC dropped 1.22% in the last 24 h, while the 20-coin basket of alts actually rose about 0.38%. Bottom line: BTC's underperforming the top-traded alts, and ETH isn't gaining any relative strength versus Bitcoin. Just a modest pullback across the board.",
-    "postId": 374944149749210,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374944149749210?r=B492ZGBN&l=en"
   }
 ]
