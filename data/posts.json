@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-15T11:15:41.426Z",
+    "theme": "relative-strength",
+    "text": "$ETH slipped 2.765% against $BTC, so it's losing ground in the pair. $BTC itself fell 2.959% over 24 h. The 20-coin basket of top alts dropped 6.277%, that's a steeper slide than $BTC's loss. In short, $BTC outperformed the alt basket, while $ETH is the weaker link versus $BTC. Nothing wild, just a broader pull-back across the board.",
+    "postId": 377535452479591,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377535452479591?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-15T02:19:26.869Z",
     "theme": "breakout-watch",
     "text": "$XAUT is swinging hard, its 24-hour range hit about 2.27% while it usually sits around 1.1%, so it moved roughly twice as much as normal. $ZEC also broke out of its usual band, trading a 16.64% range versus the typical 10.52%, a noticeably wider swing. $ETH's 5.25% spread was only a touch above its average 4.13%, so it stayed pretty close to the norm. All three ended the day with modest price moves, nothing else crazy on the board.",
@@ -201,12 +208,5 @@
     "text": "$ETH slipped 0.23% against $BTC, so it's losing a bit of ground in the pair. Meanwhile $BTC dropped 1.22% in the last 24 h, while the 20-coin basket of alts actually rose about 0.38%. Bottom line: BTC's underperforming the top-traded alts, and ETH isn't gaining any relative strength versus Bitcoin. Just a modest pullback across the board.",
     "postId": 374944149749210,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374944149749210?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-07T21:50:28.675Z",
-    "theme": "daily-recap",
-    "text": "$BTC fell to $83,200.5, down 2.79% from yesterday. It bounced off a high of $85,657.01 but couldn't hold, sliding to a low of $82,787.25. Volume sat around 20,666 BTC.\n\n$ETH slipped 4.78% to $2,567.4. The rally peaked at $2,700.54 before retreating to $2,538.06, with 429,850 ETH changing hands.\n\n$BNB dropped 1.27% to $769.5 after testing $780.73 and finding support near $758.57. Roughly 128,800 BNB traded.\n\nWatch the $BTC 24-hour range break of $84,500, that level could set the tone for the next session.",
-    "postId": 374860302680149,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374860302680149?r=B492ZGBN&l=en"
   }
 ]
