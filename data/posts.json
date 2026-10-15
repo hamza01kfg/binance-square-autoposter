@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-15T02:19:26.869Z",
+    "theme": "breakout-watch",
+    "text": "$XAUT is swinging hard, its 24-hour range hit about 2.27% while it usually sits around 1.1%, so it moved roughly twice as much as normal. $ZEC also broke out of its usual band, trading a 16.64% range versus the typical 10.52%, a noticeably wider swing. $ETH's 5.25% spread was only a touch above its average 4.13%, so it stayed pretty close to the norm. All three ended the day with modest price moves, nothing else crazy on the board.",
+    "postId": 377403665463597,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/377403665463597?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-14T20:31:34.900Z",
     "theme": "daily-recap",
     "text": "$BTC slipped to $81,825, down 1.63% after hitting a high of $84,147. Volume sat around 17.6k BTC, so the dip had decent bite.\n\n$ETH fell harder, 3.42% off its peak $2,530, closing at $2,420.98. Trade flow was solid, over 272k ETH changed hands, pushing quote volume past $672 M.\n\n$BNB barely budged on the upside, hovering at $728.90, just 1.75% lower from $747. It squeezed out a tiny range of $728-$747 with 79.8k BNB traded, pulling $58.9 M in quote volume.\n\nWatch the $BTC 24-hour low-high spread; if it narrows back toward the $81.5k-$82k band, we'll see whether the recent sell-off was just a pause or the start of a steadier slide.",
@@ -201,12 +208,5 @@
     "text": "$BTC fell to $83,200.5, down 2.79% from yesterday. It bounced off a high of $85,657.01 but couldn't hold, sliding to a low of $82,787.25. Volume sat around 20,666 BTC.\n\n$ETH slipped 4.78% to $2,567.4. The rally peaked at $2,700.54 before retreating to $2,538.06, with 429,850 ETH changing hands.\n\n$BNB dropped 1.27% to $769.5 after testing $780.73 and finding support near $758.57. Roughly 128,800 BNB traded.\n\nWatch the $BTC 24-hour range break of $84,500, that level could set the tone for the next session.",
     "postId": 374860302680149,
     "shareLink": "https://app.binance.com/uni-qr/cpos/374860302680149?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-07T18:14:17.154Z",
-    "theme": "leaders-laggards",
-    "text": "$SAND surged 22.3% to $0.080, trading between $0.065 and $0.088 and pulling $42.6 M in volume. $NEAR nudged up 3% to $5.20, stayed tight around $5.25-$4.87 and logged $145 M of turnover. Meanwhile $UNI tumbled almost 10% to $7.83, its low hit $7.77 after a high of $8.69, with $82.3 M traded. The market's pushing sand-based playouts forward while the Uniswap token got left in the dust.",
-    "postId": 374807171257110,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/374807171257110?r=B492ZGBN&l=en"
   }
 ]
