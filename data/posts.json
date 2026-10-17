@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-17T14:45:52.924Z",
+    "theme": "leaders-laggards",
+    "text": "$TRX is the only pair actually inching up, +0.12% to $0.3366, trading in a tight $0.3342-$0.3372 range with over 22 M USDT of volume. Meanwhile $BTC slipped almost 0.9% to $81,578, swinging between $80,809 and $82,410 on 819 M USDT traded. On the downside $STRK plummeted 11.5% to $0.06743, its low of $0.06537 barely holding the line after hitting $0.0767, and it still moved more than 21 M USDT. Leaders barely crawled forward while the laggards took a hard dive.",
+    "postId": 378294897905137,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/378294897905137?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-17T10:29:31.450Z",
     "theme": "relative-strength",
     "text": "$ETH's eth/btc ratio slipped to 0.02985, down 0.167 % versus $BTC. Meanwhile $BTC fell 0.458 % in USD terms. The 20-token basket dragged harder, averaging a 3.221 % drop. So $BTC is still out-performing the alt set, but $ETH is losing a tiny bit of ground to $BTC. Overall it's a down-day across the board, with the broad alt group taking the biggest hit.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $82,864, down 0.45% in 24 h, bounced off a high of $83,305 and found support near $82,286. $ETH nudged lower to $2,496, a 0.28% dip, trading between $2,474 and $2,506. $BNB was the only one up, edging 0.60% to $748, after testing $751.35 and holding above $736.65. Volume was modest on BTC (≈10.4 k) and ETH (≈107 k), while BNB saw about 65 k trades. Watch $BTC's $82.3 k floor and $ETH's $2.47 k trough for any fresh moves; $BNB's upside may hinge on whether it can break past $751. Nothing wild, just a small drift across the board.",
     "postId": 375781343083804,
     "shareLink": "https://app.binance.com/uni-qr/cpos/375781343083804?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-10T03:18:06.504Z",
-    "theme": "quiet-movers",
-    "text": "$BNB's been stuck in a narrow band, its 24-hour swing only about 1.3% versus the usual 3.2%, that's roughly a third tighter than normal. $ZEC nudged down a touch, down 0.65% to $1,212.58, and its daily range narrowed to 4.27% from a typical 7.3%, so it's somewhat tighter. Meanwhile $ETH stayed pretty flat, up 0.22% at $2,492.48, with a 1.85% swing compared to the usual 3.16%, also a bit tighter than usual. Nothing wild, just a calmer day across the board.",
-    "postId": 375648609953039,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/375648609953039?r=B492ZGBN&l=en"
   }
 ]
