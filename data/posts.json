@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-17T10:29:31.450Z",
+    "theme": "relative-strength",
+    "text": "$ETH's eth/btc ratio slipped to 0.02985, down 0.167 % versus $BTC. Meanwhile $BTC fell 0.458 % in USD terms. The 20-token basket dragged harder, averaging a 3.221 % drop. So $BTC is still out-performing the alt set, but $ETH is losing a tiny bit of ground to $BTC. Overall it's a down-day across the board, with the broad alt group taking the biggest hit.",
+    "postId": 378231895422816,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/378231895422816?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-17T02:04:49.842Z",
     "theme": "morning-brief",
     "text": "$BTC slipped to $81,630, down 0.61% in 24 h, after testing a high of $82,940 and finding support near $80,809. Volume held around 13,837 BTC, so the move wasn't a flash crash.\n\n$ETH eased to $2,425.93, off 0.36%. It bounced off a low of $2,393.48 and couldn't break the $2,494 ceiling. Trade flow stayed solid with roughly 273,742 ETH changing hands.\n\n$BNB fell to $721.70, down 0.84%. The token hovered between $718.54 and $736.13, squeezing out a bit of upside. About 96,118 BNB traded, pushing quote volume past $69.9 M.\n\nAll three pairs nudged lower, each staying inside a tight range. Watch the next resistance-support bands, $82,000/$80,800 for $BTC, $2,500/$2,390 for $ETH, and $735/$718 for $BNB. No wild swings yet, just a mild drift.",
@@ -201,12 +208,5 @@
     "text": "$BNB's been stuck in a narrow band, its 24-hour swing only about 1.3% versus the usual 3.2%, that's roughly a third tighter than normal. $ZEC nudged down a touch, down 0.65% to $1,212.58, and its daily range narrowed to 4.27% from a typical 7.3%, so it's somewhat tighter. Meanwhile $ETH stayed pretty flat, up 0.22% at $2,492.48, with a 1.85% swing compared to the usual 3.16%, also a bit tighter than usual. Nothing wild, just a calmer day across the board.",
     "postId": 375648609953039,
     "shareLink": "https://app.binance.com/uni-qr/cpos/375648609953039?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-09T21:31:04.950Z",
-    "theme": "relative-strength",
-    "text": "$BTC up 1.08% while $ETH slipped 0.69% against it, so ETH is losing relative strength. The 20-coin basket's average rose 9.63%, meaning the alts are outpacing BTC big time. BTC's modest gain can't keep up with the pack, and ETH's dip deepens the gap. Overall, the market's leaning hard toward the broader alt segment, leaving BTC trailing and ETH further behind. Nothing wild, just the alts doing the heavy lifting.",
-    "postId": 375563324779501,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/375563324779501?r=B492ZGBN&l=en"
   }
 ]
