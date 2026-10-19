@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T18:05:34.153Z",
+    "theme": "daily-recap",
+    "text": "$BTC closed at $82,081, up 1.05% with a high of $83,158 and a low of $80,684. Volume hit 14,602 $BTC, pushing quote volume past $1.2 B.\n\n$ETH ended the session at $2,406, gaining 1.50% after rallying to $2,446 before slipping to $2,329. It traded 217,933 $ETH, translating to $523 M in quote volume.\n\n$BNB nudged up 2.15% to $728, touching $730.75 on the upside and $705.86 on the downside. The token moved 114,261 $BNB, with $82.7 M in quote volume.\n\nWatch the $BTC order-book depth as it approaches the $83k resistance; any shift there could set the tone for the next 24-hour window.",
+    "postId": 379051761873272,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/379051761873272?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-19T12:50:37.050Z",
     "theme": "breakout-watch",
     "text": "$ZEC swung the most, bouncing about 12.5% in 24 h while its usual daily swing sits near 11.6%. That's a touch wider than its norm but still in the \"basically normal\" zone.\n\n$BNB nudged up 0.76% and moved through a 3.25% range today, just a hair above its typical 2.9% band.\n\n$BTC rose 0.72% and traded inside a 3% window, practically identical to its average 2.78% range.\n\nAll three tokens kept it calm; nothing wildly out of the ordinary.",
@@ -201,12 +208,5 @@
     "text": "$BNB's been moving in a tighter band today, its 24-hour swing was about 1.9%, roughly a third less than its usual 2.9% range. Price sat at $746.5, down 0.5% on the day.\n\n$ETH held steady around $2,526.6, up 0.8%, with a 2.9% daily range that's pretty much in line with its typical 3.3% swing.\n\nSUI hovered near $1.09, slipping 2.2% and showing a 5.9% range, close to its normal 6.6% window. Nothing wild, just the usual ebb and flow.",
     "postId": 376530740818406,
     "shareLink": "https://app.binance.com/uni-qr/cpos/376530740818406?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-12T03:14:27.681Z",
-    "theme": "leaders-laggards",
-    "text": "$MAGIC surged 37 % to $0.1351, hitting a high of $0.1468 before easing back toward its low of $0.0971. $NEAR jumped 11 % to $5.84, topping out at $5.96 and staying above $5.17 all day. Meanwhile $STRK slid 6.7 % to $0.111, its price drifting between $0.1016 and $0.1265. The winners pumped volume, $MAGIC over $35 M, $NEAR near $197 M, while $STRK still churned $95 M despite the drop. Just a quick look: big gains on the magic and near side, a modest bleed on the strk front. No fireworks beyond that.",
-    "postId": 376355502350463,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/376355502350463?r=B492ZGBN&l=en"
   }
 ]
