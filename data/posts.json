@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T02:21:31.857Z",
+    "theme": "morning-brief",
+    "text": "$BTC's up a hair, 0.93% to $82,476.71, bounced off a $82,608 high after testing $80,684 low. $ETH nudged 0.49% to $2,422.23, stuck between a $2,430 top and $2,329 floor, volume still solid. $BNB climbed 0.85% to $725.94, hit $727.5 on the upside, held above $705.86 on the downside, with 79,875 BNB traded. All three sat in a tight range after the little pop, so nothing wild on the board this morning. Just a calm start, keep an eye on those highs if they break.",
+    "postId": 378819755024204,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/378819755024204?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-18T19:20:07.087Z",
     "theme": "leaders-laggards",
     "text": "$BNB slipped 0.41% to $712.54, trading between $710.15 and $724.25 with about $51.6 M in volume. Meanwhile $ZEC plunged 6.46% to $1,077.68, its low hitting $1,071.46 after a high of $1,163 and pulling $147.8 M in trades. $WLD wasn't far behind, down 6.53% to $0.4698, bouncing between $0.4687 and $0.5126 on $32.1 M of volume. Leaders barely moved, laggards took a hard hit. Looks like the market's rewarding the stable players while the rest got crushed.",
@@ -201,12 +208,5 @@
     "text": "$BTC closed at $83,694, up 0.75% with a high of $84,199 and a low of $82,805. Volume hit about 7,245 BTC, pushing quote volume past $603 M.\n\n$ETH nudged to $2,538, gaining 1.13%; it peaked at $2,555 and found a floor around $2,498. Trade flow was solid, ~201 K ETH moving $506 M in quote terms.\n\n$BNB sat at $753.6, barely up 0.33% after touching $758.44 and bottoming near $744.8. Around 51.6 K BNB changed hands, $38.7 M in quote volume.\n\nWatch the $BTC order book depth as it approaches the $84,200 resistance, any shift there could set the tone for the next session.",
     "postId": 376261238215490,
     "shareLink": "https://app.binance.com/uni-qr/cpos/376261238215490?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-11T17:09:21.976Z",
-    "theme": "breakout-watch",
-    "text": "$CFX swung hard, covering a 21.2% range in 24 h, that's more than twice its normal daily swing.\n\n$STRK wasn't far behind, ticking a 27.7% range, noticeably wider than its usual 19.8% band.\n\n$NEAR barely nudged out of its comfort zone, moving 12.6% versus a typical 12.1%, basically flat.\n\nNothing crazy beyond the numbers; just a wild ride for $CFX and $STRK, while $NEAR stayed steady.",
-    "postId": 376206794187503,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/376206794187503?r=B492ZGBN&l=en"
   }
 ]
