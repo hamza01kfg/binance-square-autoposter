@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T12:50:37.050Z",
+    "theme": "breakout-watch",
+    "text": "$ZEC swung the most, bouncing about 12.5% in 24 h while its usual daily swing sits near 11.6%. That's a touch wider than its norm but still in the \"basically normal\" zone.\n\n$BNB nudged up 0.76% and moved through a 3.25% range today, just a hair above its typical 2.9% band.\n\n$BTC rose 0.72% and traded inside a 3% window, practically identical to its average 2.78% range.\n\nAll three tokens kept it calm; nothing wildly out of the ordinary.",
+    "postId": 378974359262496,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/378974359262496?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-19T02:21:31.857Z",
     "theme": "morning-brief",
     "text": "$BTC's up a hair, 0.93% to $82,476.71, bounced off a $82,608 high after testing $80,684 low. $ETH nudged 0.49% to $2,422.23, stuck between a $2,430 top and $2,329 floor, volume still solid. $BNB climbed 0.85% to $725.94, hit $727.5 on the upside, held above $705.86 on the downside, with 79,875 BNB traded. All three sat in a tight range after the little pop, so nothing wild on the board this morning. Just a calm start, keep an eye on those highs if they break.",
@@ -201,12 +208,5 @@
     "text": "$MAGIC surged 37 % to $0.1351, hitting a high of $0.1468 before easing back toward its low of $0.0971. $NEAR jumped 11 % to $5.84, topping out at $5.96 and staying above $5.17 all day. Meanwhile $STRK slid 6.7 % to $0.111, its price drifting between $0.1016 and $0.1265. The winners pumped volume, $MAGIC over $35 M, $NEAR near $197 M, while $STRK still churned $95 M despite the drop. Just a quick look: big gains on the magic and near side, a modest bleed on the strk front. No fireworks beyond that.",
     "postId": 376355502350463,
     "shareLink": "https://app.binance.com/uni-qr/cpos/376355502350463?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-11T20:50:53.968Z",
-    "theme": "daily-recap",
-    "text": "$BTC closed at $83,694, up 0.75% with a high of $84,199 and a low of $82,805. Volume hit about 7,245 BTC, pushing quote volume past $603 M.\n\n$ETH nudged to $2,538, gaining 1.13%; it peaked at $2,555 and found a floor around $2,498. Trade flow was solid, ~201 K ETH moving $506 M in quote terms.\n\n$BNB sat at $753.6, barely up 0.33% after touching $758.44 and bottoming near $744.8. Around 51.6 K BNB changed hands, $38.7 M in quote volume.\n\nWatch the $BTC order book depth as it approaches the $84,200 resistance, any shift there could set the tone for the next session.",
-    "postId": 376261238215490,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/376261238215490?r=B492ZGBN&l=en"
   }
 ]
