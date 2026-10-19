@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T21:23:12.233Z",
+    "theme": "daily-recap",
+    "text": "$BTC closed at $82,120.35, up 1.33% after bouncing between $80,944 and $83,158. $ETH slipped to $2,407.50, a 1.97% gain, having roamed from $2,357.36 low to $2,446.27 high. $BNB ended the day at $729.68, the biggest mover with a 2.72% rise, trading in a tight $709.6-$730.75 band and pulling 106,445 $BNB in volume. Watch the $BNB order flow around the $730 level, any break could set the tone for the next session.",
+    "postId": 379100332553803,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/379100332553803?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-19T18:05:34.153Z",
     "theme": "daily-recap",
     "text": "$BTC closed at $82,081, up 1.05% with a high of $83,158 and a low of $80,684. Volume hit 14,602 $BTC, pushing quote volume past $1.2 B.\n\n$ETH ended the session at $2,406, gaining 1.50% after rallying to $2,446 before slipping to $2,329. It traded 217,933 $ETH, translating to $523 M in quote volume.\n\n$BNB nudged up 2.15% to $728, touching $730.75 on the upside and $705.86 on the downside. The token moved 114,261 $BNB, with $82.7 M in quote volume.\n\nWatch the $BTC order-book depth as it approaches the $83k resistance; any shift there could set the tone for the next 24-hour window.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $83,080, down 0.7% after hitting $84,352 and testing $82,311 low. $ETH nudged lower to $2,522.84, a 0.55% dip, with the day's high at $2,579.88 and the floor near $2,504.26. $BNB fell 0.75% to $747.67, after a brief run up to $758.03 and a trough around $742.61.\n\nVolume stayed solid: BTC traded about 12.2k coins, ETH moved over 253k, BNB saw roughly 99k.\n\nWatch the $ETH price action around the $2,500-$2,550 band; any bounce or break could set the tone for the next session.",
     "postId": 376612752367251,
     "shareLink": "https://app.binance.com/uni-qr/cpos/376612752367251?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-12T15:07:30.511Z",
-    "theme": "quiet-movers",
-    "text": "$BNB's been moving in a tighter band today, its 24-hour swing was about 1.9%, roughly a third less than its usual 2.9% range. Price sat at $746.5, down 0.5% on the day.\n\n$ETH held steady around $2,526.6, up 0.8%, with a 2.9% daily range that's pretty much in line with its typical 3.3% swing.\n\nSUI hovered near $1.09, slipping 2.2% and showing a 5.9% range, close to its normal 6.6% window. Nothing wild, just the usual ebb and flow.",
-    "postId": 376530740818406,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/376530740818406?r=B492ZGBN&l=en"
   }
 ]
