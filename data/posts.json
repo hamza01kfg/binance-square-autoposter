@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-20T20:20:58.354Z",
+    "theme": "quiet-movers",
+    "text": "$BNB slipped up a touch, ending the day at $739.39 with a 1.43% gain. Its 24-hour swing was roughly 2.3%, a shade narrower than the typical 2.6% swing it sees each day, about a tenth tighter than normal.\n\n$SOL nudged higher to $106, up 1.27%. The token's price moved within a 4.32% band, compared with its usual 4.69% range, so the day was just a bit more confined than usual.\n\n$ZEC jumped 6.83% to $1,210.04. The daily range sat at 9.78% versus the usual 10.29%, meaning the swing was only slightly tighter than what we normally see.\n\nAll three moved within roughly their usual volatility envelope, nothing wild on the chart.",
+    "postId": 379438932955771,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/379438932955771?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-20T16:08:14.384Z",
     "theme": "morning-brief",
     "text": "$BTC's at $82,669.52, up 0.94% in 24 h. It nudged a high of $83,439 before slipping to a low of $81,200, so the range stayed tight.\n\n$ETH rallied to $2,442.90, +1.96%, after testing $2,478 and holding above $2,372.62 all day. Volume hit over 204k, pushing quote volume past $493 M.\n\n$BNB pushed up to $735.60, +1.48%, with a swing between $724.86 and $741.99. Trade flow was solid, 88k units changing hands and $64.5 M in quote volume.\n\nAll three sat in modest gains, holding near their daily highs. No wild swings, just a calm push higher across the board.",
@@ -201,12 +208,5 @@
     "text": "$BTC's at $83,102, up 0.74% in 24h. It hit a high of $84,168 before slipping to a low of $81,034, so the rally's been a bit choppy but still net-positive.\n\n$ETH dropped to $2,507, down 0.32%. The pair bounced between $2,409 and $2,539, ending the day near the lower end of that range.\n\n$BNB slid to $741, off 0.56%. It swung from $722 up to $748 before settling back, showing a modest pullback after testing the top of the band.\n\nAll three sat in tight ranges, volume staying solid. No wild moves, just a quiet shuffle across the board.",
     "postId": 376937858920952,
     "shareLink": "https://app.binance.com/uni-qr/cpos/376937858920952?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-13T14:00:21.854Z",
-    "theme": "relative-strength",
-    "text": "$ETH slipped 1.89% against $BTC, so it's losing ground in the BTC pair. Meanwhile $BTC nudged up 0.31% over the last 24 hours. The 20-coin basket's average fell 5.20%, meaning the alt crowd is underperforming both $BTC and $ETH. Bottom line: $BTC is the only one holding its own, $ETH's relative strength is fading, and the broader alt set is taking a hit. Nothing wild, just a modest BTC edge today.",
-    "postId": 376868133840650,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/376868133840650?r=B492ZGBN&l=en"
   }
 ]
