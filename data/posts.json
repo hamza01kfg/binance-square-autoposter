@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-22T20:26:51.578Z",
+    "theme": "morning-brief",
+    "text": "$BTC slipped 3.75% to $81,357, hugging its 24-hr low of $80,939 after a brief rally up to $84,847. Volume held near 20k BTC, so the move had decent heft.\n\n$ETH fell 4.26% to $2,385, testing the $2,360 floor before bouncing to a high of $2,502. Roughly 266k ETH traded, pushing quote volume past $642 M.\n\n$BNB dropped 2.40% to $731, skimming the $726 support line after peaking at $751. About 107k BNB changed hands, with $78.9 M in quote volume.\n\nAll three slid under their highs, so keep an eye on whether they respect the current lows before any fresh push.",
+    "postId": 380148168570146,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/380148168570146?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-22T16:24:35.034Z",
     "theme": "relative-strength",
     "text": "$ETH is losing a hair against $BTC, down 0.945% on the ETH/BTC pair (now around 0.02936 BTC). Meanwhile $BTC slipped 3.602% in the last 24 h. The 20-coin basket of top alts fell even harder, down about 7.52% on average. So BTC's outpacing the alt basket, but ETH's still holding a bit more relative strength versus BTC. Overall a pretty bearish day across the board.",
@@ -201,12 +208,5 @@
     "text": "$BTC ended the day at $82,310, up 0.78% after peaking at $82,631 and testing a low of $79,800. Volume was about 22,593 BTC, moving roughly $1.84 B in quote.\n\n$ETH closed near $2,438, a modest 0.20% gain. The pair hit $2,453.4 on the upside, found support around $2,318, and churned 495,352 ETH (~$1.18 B) in the last 24 h.\n\n$BNB nudged higher to $732.83, +0.47%, with a high of $734.25 and a low of $708.64. Traders swung about 153,580 BNB, swapping $110.9 M worth.\n\nWatch the $BTC 24-hour low-high range; if price stays above $80 K it'll test the next resistance band around $84 K.",
     "postId": 377606496977304,
     "shareLink": "https://app.binance.com/uni-qr/cpos/377606496977304?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-15T11:15:41.426Z",
-    "theme": "relative-strength",
-    "text": "$ETH slipped 2.765% against $BTC, so it's losing ground in the pair. $BTC itself fell 2.959% over 24 h. The 20-coin basket of top alts dropped 6.277%, that's a steeper slide than $BTC's loss. In short, $BTC outperformed the alt basket, while $ETH is the weaker link versus $BTC. Nothing wild, just a broader pull-back across the board.",
-    "postId": 377535452479591,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/377535452479591?r=B492ZGBN&l=en"
   }
 ]
