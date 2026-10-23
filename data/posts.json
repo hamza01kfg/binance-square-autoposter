@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-23T16:13:38.015Z",
+    "theme": "morning-brief",
+    "text": "$BTC stuck around $81,642, up just 0.09% in 24h. It bounced between $80,940 low and $82,061 high, so the range stayed tight.\n\n$ETH nudged to $2,405, a 0.39% gain, trading its day's swing from $2,360 low up to $2,418 high. Volume held strong around 306 k.\n\n$BNB led the trio at $748, jumping 2.40% with a high of $750.5 and a low of $725.6. It pushed about 119.7 k coins, pulling roughly $88.8 M in quote volume.\n\nAll three held above yesterday's lows, no crazy spikes. Just a modest climb for BNB and flatlines for BTC and ETH.",
+    "postId": 380439830106646,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/380439830106646?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-23T11:24:32.922Z",
     "theme": "breakout-watch",
     "text": "$XAUT surged past $4,032 then fell back, swinging about twice its usual daily range, 2.41% versus the typical 1.16%.\n\n$PEPE bounced hard, climbing to $0.00000495 with a 14.34% swing, almost double its normal 7.38% spread, that's a noticeably wider move.\n\n$BNB nudged up to $745.35, moving 3.17% in 24 h, a bit wider than its average 2.25% range.\n\nAll three tokens showed more volatility than they normally do, but none broke the market wide open. Just a lively 24-hour spread.",
@@ -201,12 +208,5 @@
     "text": "$INJ surged 28.5% to $9.22, flashing a high of $9.41 after bouncing from a low near $7.06. $NEAR jumped 15.8% and is now $5.30, having traded up to $5.44 before dipping to $4.53. Meanwhile $BTC barely moved, up 1.7% to $82,333, with a high of $82,634 and a low of $79,800. The altcoins are pulling ahead while Bitcoin's grind stays flat. Looks like the smaller pairs are doing the heavy lifting today.",
     "postId": 377888026299202,
     "shareLink": "https://app.binance.com/uni-qr/cpos/377888026299202?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-16T02:11:49.241Z",
-    "theme": "tokenized-stocks",
-    "text": "$CRCLB just ripped up 10.65% to 85.29 USDT, hitting a high of 87.75 before easing back. Volume's solid at 36.5 M USDT, so the tokenized stock stayed busy well after NYSE closed.\n\nTesla's $TSLAB nudged 1.47% higher, last price 368.95 USDT, topped out at 369.97 and rode a modest 4.7 M USDT of 24/7 flow.\n\nMicron's $MUB is the quiet mover: up 3.64% to 923.71 USDT, peaked at 933.33, with 14.3 M USDT changing hands.\n\nAll three keep grinding around the clock, no overnight dead zones.",
-    "postId": 377755685378647,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/377755685378647?r=B492ZGBN&l=en"
   }
 ]
