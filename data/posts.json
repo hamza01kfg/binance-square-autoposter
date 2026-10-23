@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-23T20:15:34.027Z",
+    "theme": "relative-strength",
+    "text": "$ETH is pulling ahead of $BTC, up 0.546% in BTC terms. $BTC slipped 0.071% over the last 24 h. The 20-coin basket of top alts posted a 0.474% gain, so the average alt is outpacing $BTC. In short, ETH's got relative strength, BTC's lagging, and the broader alt set is nudging ahead of the king. Nothing wild, just a modest shift in the hierarchy.",
+    "postId": 380499287678803,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/380499287678803?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-23T16:13:38.015Z",
     "theme": "morning-brief",
     "text": "$BTC stuck around $81,642, up just 0.09% in 24h. It bounced between $80,940 low and $82,061 high, so the range stayed tight.\n\n$ETH nudged to $2,405, a 0.39% gain, trading its day's swing from $2,360 low up to $2,418 high. Volume held strong around 306 k.\n\n$BNB led the trio at $748, jumping 2.40% with a high of $750.5 and a low of $725.6. It pushed about 119.7 k coins, pulling roughly $88.8 M in quote volume.\n\nAll three held above yesterday's lows, no crazy spikes. Just a modest climb for BNB and flatlines for BTC and ETH.",
@@ -201,12 +208,5 @@
     "text": "$BTC slid to $81,488, down 1.174% in 24h, hit a high of $82,940 before slipping to a low of $81,425. $ETH edged lower to $2,437, a 0.181% drop, nudged up to $2,494 at the top and barely dipped to $2,423 at the bottom. $BNB fell 1.21% to $724.37, bounced off a high of $736.13 and lingered near $723.79 on the downside. Volume stayed solid across the board, BTC around 14.1k, ETH near 276k, BNB about 105k. All three are trading below their recent peaks, so keep an eye on whether they can hold above those lows. Looks like a calm pull-back day.",
     "postId": 377957449219576,
     "shareLink": "https://app.binance.com/uni-qr/cpos/377957449219576?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-16T11:10:19.031Z",
-    "theme": "leaders-laggards",
-    "text": "$INJ surged 28.5% to $9.22, flashing a high of $9.41 after bouncing from a low near $7.06. $NEAR jumped 15.8% and is now $5.30, having traded up to $5.44 before dipping to $4.53. Meanwhile $BTC barely moved, up 1.7% to $82,333, with a high of $82,634 and a low of $79,800. The altcoins are pulling ahead while Bitcoin's grind stays flat. Looks like the smaller pairs are doing the heavy lifting today.",
-    "postId": 377888026299202,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/377888026299202?r=B492ZGBN&l=en"
   }
 ]
