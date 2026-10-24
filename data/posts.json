@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-24T19:20:01.943Z",
+    "theme": "relative-strength",
+    "text": "$ETH/$BTC slipped to 0.02902, down 1.49% against $BTC. Meanwhile $BTC itself fell 0.94% in USD terms. The 20-coin basket, though, nudged up 1.37% on average, so the alt group outperformed $BTC today. In short: $ETH is losing relative strength to $BTC, but the broader alt slice is holding its own and actually beat $BTC's modest dip. Nothing wild, just a small tilt toward the rest of the market.",
+    "postId": 380839533966104,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/380839533966104?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-24T15:10:36.619Z",
     "theme": "leaders-laggards",
     "text": "$BMT surged 67.5% to $0.039, trading in a tight $0.021-$0.051 range and pulling in over $53.9M in quote volume. $ERA also climbed, up about 20.5% to $0.0876, with a high of $0.1031 and $27.2M flowing through. Meanwhile $WLD slipped 12.6% to $0.4636, barely breaking its $0.457-$0.535 band despite the biggest quote volume at $79.6M. Gains on the upside, losses on the downside, just how the 24-hour story unfolded.",
@@ -201,12 +208,5 @@
     "text": "$TRX is the only pair actually inching up, +0.12% to $0.3366, trading in a tight $0.3342-$0.3372 range with over 22 M USDT of volume. Meanwhile $BTC slipped almost 0.9% to $81,578, swinging between $80,809 and $82,410 on 819 M USDT traded. On the downside $STRK plummeted 11.5% to $0.06743, its low of $0.06537 barely holding the line after hitting $0.0767, and it still moved more than 21 M USDT. Leaders barely crawled forward while the laggards took a hard dive.",
     "postId": 378294897905137,
     "shareLink": "https://app.binance.com/uni-qr/cpos/378294897905137?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-17T10:29:31.450Z",
-    "theme": "relative-strength",
-    "text": "$ETH's eth/btc ratio slipped to 0.02985, down 0.167 % versus $BTC. Meanwhile $BTC fell 0.458 % in USD terms. The 20-token basket dragged harder, averaging a 3.221 % drop. So $BTC is still out-performing the alt set, but $ETH is losing a tiny bit of ground to $BTC. Overall it's a down-day across the board, with the broad alt group taking the biggest hit.",
-    "postId": 378231895422816,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378231895422816?r=B492ZGBN&l=en"
   }
 ]
