@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-25T11:08:53.306Z",
+    "theme": "morning-brief",
+    "text": "$BTC slipped to $80,315, down 0.43% after hitting a high of $81,033 and a low of $79,221. Volume held near 9.7k, so the move felt more like a brief wobble than a panic.\n\n$ETH fell 1.75% to $2,327, touching $2,373 at the top and bottoming out around $2,282. Over 200k coins changed hands, pushing quote volume past $474 M.\n\n$BNB nudged up 0.99% to $739.9, trading between $718 and $748.6. With about 119k units traded, quote volume topped $87.5 M.\n\nAll three pairs showed a clear split: BTC and ETH edging lower, BNB managing a modest gain. Nothing wild, just the usual 24-hour shuffle.",
+    "postId": 381072724799443,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/381072724799443?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-25T02:15:20.475Z",
     "theme": "leaders-laggards",
     "text": "$BMT surged 26% to $0.0315, punching through its $0.025 low and flashing a $63.4 M quote volume. $ZEC nudged up 3.2% to $1,217, holding near its $1,225 high on $147 M traded. Meanwhile $ERA slid 19% to $0.0724, barely touching its $0.071 low and dragging $20.7 M in volume. The winners are blasting past yesterday's ranges, the loser is stuck in a steep dip. Nothing wild, just a clear split between the top gainer and the biggest laggard.",
@@ -201,12 +208,5 @@
     "text": "$BTC barely budged, up 0.089% to $81,703.01. It hit a high of $81,898 and a low of $80,820, trading about 7,005 BTC on volume.\n\n$ETH slipped 0.705% and now sits at $2,408.83. The day's range was $2,357-$2,442, with 134k ETH changing hands for roughly $323 M in quote volume.\n\n$BNB eased 0.256% to $719.85. It bounced between $710.15 and $723.27, moving 73,300 BNB for about $52.7 M in quote volume.\n\nAll three are hovering near their 24-hour highs, so watch if any breaks back toward the tops. No big news, just a flat-ish session.",
     "postId": 378461752466036,
     "shareLink": "https://app.binance.com/uni-qr/cpos/378461752466036?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-17T19:07:53.309Z",
-    "theme": "breakout-watch",
-    "text": "$TIAUSDT nudged just under a 1 % drop, its 24-hour swing hit 18.3 % versus a typical 17.1 %, about 7 % wider than usual, so basically a regular day for it.\n\n$WLDUSDT inched up 1.3 %, trading in a 10.6 % band, close to its average 10.4 % range; nothing out of the ordinary.\n\n$ZECUSDT rose 1.2 % but only moved 6.7 % today, well under its usual 10.6 % spread, meaning it was tighter than normal.\n\nAll three stayed pretty tame, no crazy spikes.",
-    "postId": 378359288720678,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378359288720678?r=B492ZGBN&l=en"
   }
 ]
