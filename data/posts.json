@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-25T02:15:20.475Z",
+    "theme": "leaders-laggards",
+    "text": "$BMT surged 26% to $0.0315, punching through its $0.025 low and flashing a $63.4 M quote volume. $ZEC nudged up 3.2% to $1,217, holding near its $1,225 high on $147 M traded. Meanwhile $ERA slid 19% to $0.0724, barely touching its $0.071 low and dragging $20.7 M in volume. The winners are blasting past yesterday's ranges, the loser is stuck in a steep dip. Nothing wild, just a clear split between the top gainer and the biggest laggard.",
+    "postId": 380941600226219,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/380941600226219?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-24T19:20:01.943Z",
     "theme": "relative-strength",
     "text": "$ETH/$BTC slipped to 0.02902, down 1.49% against $BTC. Meanwhile $BTC itself fell 0.94% in USD terms. The 20-coin basket, though, nudged up 1.37% on average, so the alt group outperformed $BTC today. In short: $ETH is losing relative strength to $BTC, but the broader alt slice is holding its own and actually beat $BTC's modest dip. Nothing wild, just a small tilt toward the rest of the market.",
@@ -201,12 +208,5 @@
     "text": "$TIAUSDT nudged just under a 1 % drop, its 24-hour swing hit 18.3 % versus a typical 17.1 %, about 7 % wider than usual, so basically a regular day for it.\n\n$WLDUSDT inched up 1.3 %, trading in a 10.6 % band, close to its average 10.4 % range; nothing out of the ordinary.\n\n$ZECUSDT rose 1.2 % but only moved 6.7 % today, well under its usual 10.6 % spread, meaning it was tighter than normal.\n\nAll three stayed pretty tame, no crazy spikes.",
     "postId": 378359288720678,
     "shareLink": "https://app.binance.com/uni-qr/cpos/378359288720678?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-17T14:45:52.924Z",
-    "theme": "leaders-laggards",
-    "text": "$TRX is the only pair actually inching up, +0.12% to $0.3366, trading in a tight $0.3342-$0.3372 range with over 22 M USDT of volume. Meanwhile $BTC slipped almost 0.9% to $81,578, swinging between $80,809 and $82,410 on 819 M USDT traded. On the downside $STRK plummeted 11.5% to $0.06743, its low of $0.06537 barely holding the line after hitting $0.0767, and it still moved more than 21 M USDT. Leaders barely crawled forward while the laggards took a hard dive.",
-    "postId": 378294897905137,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378294897905137?r=B492ZGBN&l=en"
   }
 ]
