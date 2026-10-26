@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-26T12:42:50.132Z",
+    "theme": "relative-strength",
+    "text": "$ETH slipped 0.24% against $BTC, now sitting at about 0.0289 BTC. $BTC itself dipped 0.13% in the last 24 h. Meanwhile the 20-coin basket of top alts jumped roughly 2.69%, outpacing Bitcoin nicely. So BTC's under-performing the alt crowd, and ETH is losing a touch of ground to BTC. Nothing wild, just a modest pullback on the big guys and a small rally in the rest.",
+    "postId": 381449707585677,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/381449707585677?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-26T02:15:53.167Z",
     "theme": "daily-recap",
     "text": "$BTC slipped to $79,860, down 1.24% after peaking at $81,033. Volume held around 7.26 k BTC, quote flow just under $584 M. $ETH fell 2.04% to $2,314, touched a high of $2,371 before sliding back, with 131.7 k coins changing hands and $308 M in quote volume. $BNB edged lower 0.56% to $739, hovering between $734 and $749; about 82.6 k BNB traded, moving $61.3 M in quotes.\n\nWatch the $BTC intraday range, if it breaks back above $81K the next swing could get interesting.",
@@ -201,12 +208,5 @@
     "text": "$BTC's up a hair, 0.93% to $82,476.71, bounced off a $82,608 high after testing $80,684 low. $ETH nudged 0.49% to $2,422.23, stuck between a $2,430 top and $2,329 floor, volume still solid. $BNB climbed 0.85% to $725.94, hit $727.5 on the upside, held above $705.86 on the downside, with 79,875 BNB traded. All three sat in a tight range after the little pop, so nothing wild on the board this morning. Just a calm start, keep an eye on those highs if they break.",
     "postId": 378819755024204,
     "shareLink": "https://app.binance.com/uni-qr/cpos/378819755024204?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-18T19:20:07.087Z",
-    "theme": "leaders-laggards",
-    "text": "$BNB slipped 0.41% to $712.54, trading between $710.15 and $724.25 with about $51.6 M in volume. Meanwhile $ZEC plunged 6.46% to $1,077.68, its low hitting $1,071.46 after a high of $1,163 and pulling $147.8 M in trades. $WLD wasn't far behind, down 6.53% to $0.4698, bouncing between $0.4687 and $0.5126 on $32.1 M of volume. Leaders barely moved, laggards took a hard hit. Looks like the market's rewarding the stable players while the rest got crushed.",
-    "postId": 378716188528664,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378716188528664?r=B492ZGBN&l=en"
   }
 ]
