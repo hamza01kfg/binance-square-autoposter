@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-26T18:02:07.699Z",
+    "theme": "daily-recap",
+    "text": "$BTC slid to $80,406, down 0.48% after flirting with $80,845 and testing $79,369. Volume held around 15k BTC, pushing $1.21 B in quote flow.\n\n$ETH dropped to $2,328, a 1.28% pullback from its $2,359 high, while the low hit $2,293. Heavy hands moved roughly 196k ETH, generating $456 M in quote volume.\n\n$BNB edged up to $745, up 0.35% after peaking at $747.47 and finding support near $732.45. Around 99k BNB changed hands, accounting for $73 M in quote volume.\n\nWatch the $BTC order book depth as the next 1-hour candle forms; any sudden imbalance could spark a quick swing.",
+    "postId": 381528177097145,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/381528177097145?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-26T12:42:50.132Z",
     "theme": "relative-strength",
     "text": "$ETH slipped 0.24% against $BTC, now sitting at about 0.0289 BTC. $BTC itself dipped 0.13% in the last 24 h. Meanwhile the 20-coin basket of top alts jumped roughly 2.69%, outpacing Bitcoin nicely. So BTC's under-performing the alt crowd, and ETH is losing a touch of ground to BTC. Nothing wild, just a modest pullback on the big guys and a small rally in the rest.",
@@ -201,12 +208,5 @@
     "text": "$ZEC swung the most, bouncing about 12.5% in 24 h while its usual daily swing sits near 11.6%. That's a touch wider than its norm but still in the \"basically normal\" zone.\n\n$BNB nudged up 0.76% and moved through a 3.25% range today, just a hair above its typical 2.9% band.\n\n$BTC rose 0.72% and traded inside a 3% window, practically identical to its average 2.78% range.\n\nAll three tokens kept it calm; nothing wildly out of the ordinary.",
     "postId": 378974359262496,
     "shareLink": "https://app.binance.com/uni-qr/cpos/378974359262496?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-19T02:21:31.857Z",
-    "theme": "morning-brief",
-    "text": "$BTC's up a hair, 0.93% to $82,476.71, bounced off a $82,608 high after testing $80,684 low. $ETH nudged 0.49% to $2,422.23, stuck between a $2,430 top and $2,329 floor, volume still solid. $BNB climbed 0.85% to $725.94, hit $727.5 on the upside, held above $705.86 on the downside, with 79,875 BNB traded. All three sat in a tight range after the little pop, so nothing wild on the board this morning. Just a calm start, keep an eye on those highs if they break.",
-    "postId": 378819755024204,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378819755024204?r=B492ZGBN&l=en"
   }
 ]
