@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-26T21:30:40.274Z",
+    "theme": "tokenized-stocks",
+    "text": "$CRCLB slipped to 80.19 USDT, down 5.891% after hitting a high of 85.7 USDT and a low of 79 USDT. Volume's still solid at about 26.2 M USDT, so the tokenized stock kept moving even after US markets closed.\n\n$SNDKB is barely budging, last at 1,262.04 USDT, up just 0.04% from yesterday. It bounced between 1,288.57 USDT and 1,223.46 USDT, with 35.4 M USDT changing hands, proving the Sandisk bStock can stay active around the clock.\n\nMicron's $MUB nudged higher, settling at 906.55 USDT, up 1.549% and touching a high of 916.55 USDT. Trade flow hit roughly 11.96 M USDT, showing the tokenized stock's 24/7 liquidity is still humming.",
+    "postId": 381579428448138,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/381579428448138?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-26T18:02:07.699Z",
     "theme": "daily-recap",
     "text": "$BTC slid to $80,406, down 0.48% after flirting with $80,845 and testing $79,369. Volume held around 15k BTC, pushing $1.21 B in quote flow.\n\n$ETH dropped to $2,328, a 1.28% pullback from its $2,359 high, while the low hit $2,293. Heavy hands moved roughly 196k ETH, generating $456 M in quote volume.\n\n$BNB edged up to $745, up 0.35% after peaking at $747.47 and finding support near $732.45. Around 99k BNB changed hands, accounting for $73 M in quote volume.\n\nWatch the $BTC order book depth as the next 1-hour candle forms; any sudden imbalance could spark a quick swing.",
@@ -201,12 +208,5 @@
     "text": "$BTC closed at $82,081, up 1.05% with a high of $83,158 and a low of $80,684. Volume hit 14,602 $BTC, pushing quote volume past $1.2 B.\n\n$ETH ended the session at $2,406, gaining 1.50% after rallying to $2,446 before slipping to $2,329. It traded 217,933 $ETH, translating to $523 M in quote volume.\n\n$BNB nudged up 2.15% to $728, touching $730.75 on the upside and $705.86 on the downside. The token moved 114,261 $BNB, with $82.7 M in quote volume.\n\nWatch the $BTC order-book depth as it approaches the $83k resistance; any shift there could set the tone for the next 24-hour window.",
     "postId": 379051761873272,
     "shareLink": "https://app.binance.com/uni-qr/cpos/379051761873272?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-19T12:50:37.050Z",
-    "theme": "breakout-watch",
-    "text": "$ZEC swung the most, bouncing about 12.5% in 24 h while its usual daily swing sits near 11.6%. That's a touch wider than its norm but still in the \"basically normal\" zone.\n\n$BNB nudged up 0.76% and moved through a 3.25% range today, just a hair above its typical 2.9% band.\n\n$BTC rose 0.72% and traded inside a 3% window, practically identical to its average 2.78% range.\n\nAll three tokens kept it calm; nothing wildly out of the ordinary.",
-    "postId": 378974359262496,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/378974359262496?r=B492ZGBN&l=en"
   }
 ]
