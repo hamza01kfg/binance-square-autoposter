@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-30T17:34:01.643Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $77,233, down 4.8% on the day. The high hit $81,152 before the price fell back toward the $76,500 low. Volume was about 33.5 k BTC, moving roughly $2.62 bn in quote.\n\n$ETH dropped 4.7% to $2,240.83, after peaking at $2,351.76 and testing $2,174.08 on the downside. Trade activity hit 656 k ETH, swapping close to $1.48 bn.\n\n$BNB took the biggest hit, down 6.25% to $701.38. It bounced from a $748.22 high but couldn't stay above $680. Volume topped 618 k BNB, worth about $436 m.\n\nWatch the $BTC price action around the $77k-$78k zone; a break either way could set the next short-term range.",
+    "postId": 382936848509887,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/382936848509887?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-30T12:37:29.595Z",
     "theme": "leaders-laggards",
     "text": "$PEPE's up 7.76% to $0.00000528, spiking near its $0.00000568 high while volume surged past $293 M. $HYPE followed with a 4.36% gain, trading at $92.26 after bouncing off a $97.74 peak. Meanwhile $INTC plunged 25.55% to $68.84, sliding from a $93.54 high and dumping $50 M in volume. The leaders are ripping ahead; the laggard is tumbling hard. Just a wild swing in the last day.",
@@ -201,12 +208,5 @@
     "text": "$XAUT surged past $4,032 then fell back, swinging about twice its usual daily range, 2.41% versus the typical 1.16%.\n\n$PEPE bounced hard, climbing to $0.00000495 with a 14.34% swing, almost double its normal 7.38% spread, that's a noticeably wider move.\n\n$BNB nudged up to $745.35, moving 3.17% in 24 h, a bit wider than its average 2.25% range.\n\nAll three tokens showed more volatility than they normally do, but none broke the market wide open. Just a lively 24-hour spread.",
     "postId": 380368784784782,
     "shareLink": "https://app.binance.com/uni-qr/cpos/380368784784782?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-23T02:30:24.111Z",
-    "theme": "leaders-laggards",
-    "text": "$AIUSDT pumped 6.77% to $0.0205, hitting a high of $0.0214 before easing back. $TRXUSDT barely budged, down 0.36% at $0.3293, its range stuck between $0.3277 and $0.3314. Meanwhile $SOXLBUSDT took a tumble, sliding 12.77% to $84.33 after flirting with $96.73 earlier. Volume stayed hefty on all three, with $AIUSDT leading the pack. Looks like the AI token is the only one pulling ahead while the index-linked pair is left in the dust.",
-    "postId": 380237512776266,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/380237512776266?r=B492ZGBN&l=en"
   }
 ]
