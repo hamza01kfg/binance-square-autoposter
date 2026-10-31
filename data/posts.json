@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-31T03:14:02.234Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped 0.19% to $77,319, hugging the day-low of $76,325 and staying under the $78,800 peak. Volume held near 17.4k BTC, so the move wasn't a flash crash.\n\n$ETH nudged up 1.2% to $2,242, carving a small gain from the $2,208 floor and still below the $2,262 high. Heavy flow, about 338k ETH, kept the price breathing.\n\n$BNB dropped 0.62% to $705.6 after testing $722 before sliding back to $694. Around 236k BNB changed hands, pushing the quote volume past $166 M.\n\nWatch the $BTC order book around the $77,000-$78,000 band; any fresh swing past $78k could reshape the short-term range.",
+    "postId": 383079391740247,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/383079391740247?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-30T21:24:32.435Z",
     "theme": "daily-recap",
     "text": "$BTC slid to $76,922, down 3.26% on the day. It bounced off a high of $79,687.92 but couldn't stay above the $76,326 low, leaving volume around 28,672 BTC.\n\n$ETH hovered at $2,245.6, a 1.91% drop. The pair peaked at $2,294.48 and found support near $2,174, with roughly 554,692 ETH changing hands.\n\n$BNB ended at $700.58, off 1.56%. It flirted with $722.08 before slipping back to $682.16, trading about 435,135 BNB.\n\nWatch the $BTC 78k-80k zone; if price tests that ceiling again it could set the tone for the next swing.",
@@ -201,12 +208,5 @@
     "text": "$ETH is pulling ahead of $BTC, up 0.546% in BTC terms. $BTC slipped 0.071% over the last 24 h. The 20-coin basket of top alts posted a 0.474% gain, so the average alt is outpacing $BTC. In short, ETH's got relative strength, BTC's lagging, and the broader alt set is nudging ahead of the king. Nothing wild, just a modest shift in the hierarchy.",
     "postId": 380499287678803,
     "shareLink": "https://app.binance.com/uni-qr/cpos/380499287678803?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-23T16:13:38.015Z",
-    "theme": "morning-brief",
-    "text": "$BTC stuck around $81,642, up just 0.09% in 24h. It bounced between $80,940 low and $82,061 high, so the range stayed tight.\n\n$ETH nudged to $2,405, a 0.39% gain, trading its day's swing from $2,360 low up to $2,418 high. Volume held strong around 306 k.\n\n$BNB led the trio at $748, jumping 2.40% with a high of $750.5 and a low of $725.6. It pushed about 119.7 k coins, pulling roughly $88.8 M in quote volume.\n\nAll three held above yesterday's lows, no crazy spikes. Just a modest climb for BNB and flatlines for BTC and ETH.",
-    "postId": 380439830106646,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/380439830106646?r=B492ZGBN&l=en"
   }
 ]
