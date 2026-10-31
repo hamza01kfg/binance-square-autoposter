@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-31T12:05:06.233Z",
+    "theme": "tokenized-stocks",
+    "text": "$NVDAB slipped 1.87% to 203.57 USDT, trading between 209.25 and 201.26 USDT with about 10.76 M USDT of volume.\n\nCerebras' $CBRSB nudged up 1.133% to 108.94 USDT, a tight range of 109.41-104.4 USDT and 351 K USDT moving hands.\n\nTesla's $TSLAB held near 400 USDT, up 0.962% to 399.96 USDT, high of 404.59, low of 388.14 and 4.05 M USDT traded.\n\nAll three keep grinding 24/7, no big spikes, just steady crypto-hour action.",
+    "postId": 383209906624798,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/383209906624798?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-10-31T03:14:02.234Z",
     "theme": "daily-recap",
     "text": "$BTC slipped 0.19% to $77,319, hugging the day-low of $76,325 and staying under the $78,800 peak. Volume held near 17.4k BTC, so the move wasn't a flash crash.\n\n$ETH nudged up 1.2% to $2,242, carving a small gain from the $2,208 floor and still below the $2,262 high. Heavy flow, about 338k ETH, kept the price breathing.\n\n$BNB dropped 0.62% to $705.6 after testing $722 before sliding back to $694. Around 236k BNB changed hands, pushing the quote volume past $166 M.\n\nWatch the $BTC order book around the $77,000-$78,000 band; any fresh swing past $78k could reshape the short-term range.",
@@ -201,12 +208,5 @@
     "text": "$PEPE's barely creeping up, +1.34% to $0.00000454, volume over $111 M, while $BNB nudged +0.51% to $739.81 on $106 M traded. On the flip side $WLD slammed –13.88% to $0.4795, volume $67 M, still stuck near its low of $0.4711. One side inching higher, the other diving hard. Looks like the meme-coin rally isn't spilling over to the broader market right now.",
     "postId": 380590916892215,
     "shareLink": "https://app.binance.com/uni-qr/cpos/380590916892215?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-23T20:15:34.027Z",
-    "theme": "relative-strength",
-    "text": "$ETH is pulling ahead of $BTC, up 0.546% in BTC terms. $BTC slipped 0.071% over the last 24 h. The 20-coin basket of top alts posted a 0.474% gain, so the average alt is outpacing $BTC. In short, ETH's got relative strength, BTC's lagging, and the broader alt set is nudging ahead of the king. Nothing wild, just a modest shift in the hierarchy.",
-    "postId": 380499287678803,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/380499287678803?r=B492ZGBN&l=en"
   }
 ]
