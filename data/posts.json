@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-01T13:05:38.805Z",
+    "theme": "relative-strength",
+    "text": "$ETH is nudging up against $BTC, +0.034% on the 0.02903 ETH/BTC pair. Meanwhile $BTC logged a 0.6% rise in USD terms, but the 20-coin basket slipped 1.63% on average. So BTC's outpacing the alt pack, even as ETH grabs a tiny edge over Bitcoin itself. All three moved in the same direction, just at different rates. Nothing wild, just a modest spread-shift and the basket lagging behind.",
+    "postId": 383578680126001,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/383578680126001?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-01T03:10:39.814Z",
     "theme": "leaders-laggards",
     "text": "$ZRO surged 8.9% to $1.84, hitting $1.87 at its peak, while volume topped $18 M. $AAVE also rode up, +5.6% to $137.8 after bouncing off a $129 low. Meanwhile $TRX slipped 4.6% to $0.310, trading down from a $0.327 high on $85 M of flow. Gains on the upside, drops on the downside, just the usual 24-hour swing.",
@@ -201,12 +208,5 @@
     "text": "$BMT surged 26% to $0.0315, punching through its $0.025 low and flashing a $63.4 M quote volume. $ZEC nudged up 3.2% to $1,217, holding near its $1,225 high on $147 M traded. Meanwhile $ERA slid 19% to $0.0724, barely touching its $0.071 low and dragging $20.7 M in volume. The winners are blasting past yesterday's ranges, the loser is stuck in a steep dip. Nothing wild, just a clear split between the top gainer and the biggest laggard.",
     "postId": 380941600226219,
     "shareLink": "https://app.binance.com/uni-qr/cpos/380941600226219?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-24T19:20:01.943Z",
-    "theme": "relative-strength",
-    "text": "$ETH/$BTC slipped to 0.02902, down 1.49% against $BTC. Meanwhile $BTC itself fell 0.94% in USD terms. The 20-coin basket, though, nudged up 1.37% on average, so the alt group outperformed $BTC today. In short: $ETH is losing relative strength to $BTC, but the broader alt slice is holding its own and actually beat $BTC's modest dip. Nothing wild, just a small tilt toward the rest of the market.",
-    "postId": 380839533966104,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/380839533966104?r=B492ZGBN&l=en"
   }
 ]
