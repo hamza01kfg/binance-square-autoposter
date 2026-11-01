@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-01T17:28:26.537Z",
+    "theme": "morning-brief",
+    "text": "$BTC held near $78,127, up 0.65% in 24h. It bounced between a $78,450 low and a $78,285 high, trading in a tight band.\n\n$ETH nudged up 0.76% to $2,268.79, topping out at $2,278 and dipping to $2,250.21. Volume surged past 83,900, pushing quote volume past $190 M.\n\n$BNB led the trio, climbing 0.98% to $712.19. The price swung from $702.03 to $717.75, with about 96,000 coins changing hands and $68 M in quote volume.\n\nAll three sat in modest ranges; watch if any breaks beyond today's highs.",
+    "postId": 383643264818009,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/383643264818009?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-01T13:05:38.805Z",
     "theme": "relative-strength",
     "text": "$ETH is nudging up against $BTC, +0.034% on the 0.02903 ETH/BTC pair. Meanwhile $BTC logged a 0.6% rise in USD terms, but the 20-coin basket slipped 1.63% on average. So BTC's outpacing the alt pack, even as ETH grabs a tiny edge over Bitcoin itself. All three moved in the same direction, just at different rates. Nothing wild, just a modest spread-shift and the basket lagging behind.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $80,315, down 0.43% after hitting a high of $81,033 and a low of $79,221. Volume held near 9.7k, so the move felt more like a brief wobble than a panic.\n\n$ETH fell 1.75% to $2,327, touching $2,373 at the top and bottoming out around $2,282. Over 200k coins changed hands, pushing quote volume past $474 M.\n\n$BNB nudged up 0.99% to $739.9, trading between $718 and $748.6. With about 119k units traded, quote volume topped $87.5 M.\n\nAll three pairs showed a clear split: BTC and ETH edging lower, BNB managing a modest gain. Nothing wild, just the usual 24-hour shuffle.",
     "postId": 381072724799443,
     "shareLink": "https://app.binance.com/uni-qr/cpos/381072724799443?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-25T02:15:20.475Z",
-    "theme": "leaders-laggards",
-    "text": "$BMT surged 26% to $0.0315, punching through its $0.025 low and flashing a $63.4 M quote volume. $ZEC nudged up 3.2% to $1,217, holding near its $1,225 high on $147 M traded. Meanwhile $ERA slid 19% to $0.0724, barely touching its $0.071 low and dragging $20.7 M in volume. The winners are blasting past yesterday's ranges, the loser is stuck in a steep dip. Nothing wild, just a clear split between the top gainer and the biggest laggard.",
-    "postId": 380941600226219,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/380941600226219?r=B492ZGBN&l=en"
   }
 ]
