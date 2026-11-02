@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02T21:14:13.620Z",
+    "theme": "relative-strength",
+    "text": "$ETH is up 0.83% against $BTC, so it's gaining a bit of ground in BTC terms. $BTC itself slipped 1.33% over the last 24 h. The 20-coin basket of top alts dropped 4.22% on average, meaning the whole alt set is underperforming both $BTC and $ETH. In short, $BTC is lagging behind $ETH, but both are holding up better than the broader alt market. Nothing wild, just $ETH tightening its lead while the rest of the alts keep sliding.",
+    "postId": 384052647969259,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/384052647969259?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-02T15:28:52.061Z",
     "theme": "morning-brief",
     "text": "$BTC slipped to $78,018, down 0.08% in 24 h. It hit a high of $78,878 and a low of $77,603, volume just over 10 k.\n\n$ETH nudged up 1% to $2,294.21, trading between $2,317.84 and $2,247.84. Volume jumped past 224 k, quote volume around $514 M.\n\n$BNB fell 1.3% to $705.53, swinging from $716 high to $703.13 low. It moved 107 k in volume, quote volume about $76 M.\n\nBTC's tight range, ETH's slight bounce and BNB's pullback are the headline moves. Keep an eye on how those bands hold.",
@@ -201,12 +208,5 @@
     "text": "$ETH slipped 0.24% against $BTC, now sitting at about 0.0289 BTC. $BTC itself dipped 0.13% in the last 24 h. Meanwhile the 20-coin basket of top alts jumped roughly 2.69%, outpacing Bitcoin nicely. So BTC's under-performing the alt crowd, and ETH is losing a touch of ground to BTC. Nothing wild, just a modest pullback on the big guys and a small rally in the rest.",
     "postId": 381449707585677,
     "shareLink": "https://app.binance.com/uni-qr/cpos/381449707585677?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-26T02:15:53.167Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped to $79,860, down 1.24% after peaking at $81,033. Volume held around 7.26 k BTC, quote flow just under $584 M. $ETH fell 2.04% to $2,314, touched a high of $2,371 before sliding back, with 131.7 k coins changing hands and $308 M in quote volume. $BNB edged lower 0.56% to $739, hovering between $734 and $749; about 82.6 k BNB traded, moving $61.3 M in quotes.\n\nWatch the $BTC intraday range, if it breaks back above $81K the next swing could get interesting.",
-    "postId": 381295628505964,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/381295628505964?r=B492ZGBN&l=en"
   }
 ]
