@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02T23:49:41.057Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $76,834, down 1.85% after peaking at $78,878. Volume hovered around 12.6k BTC. $ETH eased to $2,253.6, a 0.87% drop, with a high of $2,317.84 and 253k ETH changing hands. $BNB fell to $698.97, down 1.90% from a $716 top, trading about 115k BNB.\n\nWatch the $BTC order-book depth as it tests the $76.7k support zone; a break could set the tone for the next session.",
+    "postId": 384090853163485,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/384090853163485?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-02T21:14:13.620Z",
     "theme": "relative-strength",
     "text": "$ETH is up 0.83% against $BTC, so it's gaining a bit of ground in BTC terms. $BTC itself slipped 1.33% over the last 24 h. The 20-coin basket of top alts dropped 4.22% on average, meaning the whole alt set is underperforming both $BTC and $ETH. In short, $BTC is lagging behind $ETH, but both are holding up better than the broader alt market. Nothing wild, just $ETH tightening its lead while the rest of the alts keep sliding.",
@@ -201,12 +208,5 @@
     "text": "$BTC slid to $80,406, down 0.48% after flirting with $80,845 and testing $79,369. Volume held around 15k BTC, pushing $1.21 B in quote flow.\n\n$ETH dropped to $2,328, a 1.28% pullback from its $2,359 high, while the low hit $2,293. Heavy hands moved roughly 196k ETH, generating $456 M in quote volume.\n\n$BNB edged up to $745, up 0.35% after peaking at $747.47 and finding support near $732.45. Around 99k BNB changed hands, accounting for $73 M in quote volume.\n\nWatch the $BTC order book depth as the next 1-hour candle forms; any sudden imbalance could spark a quick swing.",
     "postId": 381528177097145,
     "shareLink": "https://app.binance.com/uni-qr/cpos/381528177097145?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-26T12:42:50.132Z",
-    "theme": "relative-strength",
-    "text": "$ETH slipped 0.24% against $BTC, now sitting at about 0.0289 BTC. $BTC itself dipped 0.13% in the last 24 h. Meanwhile the 20-coin basket of top alts jumped roughly 2.69%, outpacing Bitcoin nicely. So BTC's under-performing the alt crowd, and ETH is losing a touch of ground to BTC. Nothing wild, just a modest pullback on the big guys and a small rally in the rest.",
-    "postId": 381449707585677,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/381449707585677?r=B492ZGBN&l=en"
   }
 ]
