@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-04T03:52:11.938Z",
+    "theme": "tokenized-stocks",
+    "text": "$NVDAB slipped 0.84% to 202.3 USDT, hovering just above its low of 201.91 USDT after hitting a brief 211.14 USDT high. Volume kept ticking, about 13.2 M USDT flowing through the tokenized stock while the market slept.\n\nS&P 500's bStock, $SPYB, dropped the same 0.83% to 746.58 USDT. It's stuck near the bottom of its 745.09-758.69 USDT range, with roughly 1.48 M USDT changing hands, steady 24/7 action while the ETF's regular market is closed.\n\nCerebras token, $CBRSB, took the biggest hit, down 2.23% to 94.24 USDT. The token fell from a 102.33 USDT peak down to a 93.05 USDT trough, and about 0.97 M USDT moved in the last stretch. All three bStocks are just grinding through the night.",
+    "postId": 384504347941859,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/384504347941859?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-03T22:14:18.074Z",
     "theme": "morning-brief",
     "text": "$BTC's up 1.26% to $77,811, bounced off the high of $78,063 and held above the low of $76,389. Volume sat around 12,800 BTC, so the move had decent liquidity.\n\n$ETH climbed 1.64% to $2,293, touched $2,309 before slipping to $2,241 on the low side. With 146,500 ETH traded, the rally felt solid.\n\n$BNB barely budged, +0.18% to $700.76, hovering between $691.66 and $703.30. Roughly 90,600 BNB changed hands, keeping the range tight.",
@@ -201,12 +208,5 @@
     "text": "$BTC is at $80,791, up 1.04% in 24 h. It peaked near $80,836 before slipping back to the low-end of the day around $79,506. Volume hit about 12,951 BTC, pushing quote volume past $1.04 bn.\n\n$ETH sits on $2,346, gaining 1.66%. The rally pushed it to $2,358 before retreating to $2,297. Trading was busy, over 204 k ETH moved, worth roughly $476 mm.\n\n$BNB closed at $748, up 0.88%. High of $754 gave a brief lift, then it settled near the $734 floor. Around 108 k BNB changed hands, totaling about $80.7 mm.\n\nAll three nudged higher, but each capped near its recent high and fell back toward the low range. Nothing wild, just a modest bounce across the board.",
     "postId": 381928065986053,
     "shareLink": "https://app.binance.com/uni-qr/cpos/381928065986053?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-27T17:09:56.995Z",
-    "theme": "quiet-movers",
-    "text": "$BTC's 24-hour swing was about 1.49%, well under its typical 2.47% range, that's roughly a third tighter than usual. It nudged up 0.28% to $80,668.\n\n$ETH moved inside a 2.47% band versus its usual 3.61%, so it's also somewhat tighter. Price rose 0.93% and sits at $2,351.33.\n\n$NEAR's daily range narrowed to 5.78% from an average 8.89%, making its swing about a third tighter too. It jumped 1.81% and is now $4.621.\n\nAll three are just a bit more settled than they normally are.",
-    "postId": 381869248038468,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/381869248038468?r=B492ZGBN&l=en"
   }
 ]
