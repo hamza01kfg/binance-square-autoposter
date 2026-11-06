@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-06T21:59:00.858Z",
+    "theme": "morning-brief",
+    "text": "$BTC's hovering at $75,910, down 0.04% in 24 h. It bounced off the day-high of $76,416 and found support near $74,888, so the range stayed tight.\n\n$ETH slipped a touch, up 0.236% to $2,239.48. The pair nudged the high of $2,251 before retreating to the low of $2,206.28, trading in a narrow band with solid volume.\n\n$BNB led the pack, up 0.675% at $693.88. It chased the $699.51 peak, then settled above the $683.94 floor, showing a bit more bite than the other two.\n\nAll three held their recent ranges, volume staying healthy across the board. No wild swings yet, just a calm day of small moves. Keep an eye on whether any token can break out of these bands later.",
+    "postId": 385479232504278,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/385479232504278?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-06T18:44:04.621Z",
     "theme": "relative-strength",
     "text": "$BTC slipped 0.34% in the last 24 hours. Meanwhile the 20-coin basket is up about 1.74%, so the average alt is pulling ahead of Bitcoin. $ETH is losing a little ground against $BTC too, down 0.61% on the BTC pair. Overall the market's modest dip in Bitcoin contrasts with a small-but-clear edge for the broader alt set, while ether's relative strength is fading. Nothing wild, just a quiet shift toward the rest of the market.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $77,233, down 4.8% on the day. The high hit $81,152 before the price fell back toward the $76,500 low. Volume was about 33.5 k BTC, moving roughly $2.62 bn in quote.\n\n$ETH dropped 4.7% to $2,240.83, after peaking at $2,351.76 and testing $2,174.08 on the downside. Trade activity hit 656 k ETH, swapping close to $1.48 bn.\n\n$BNB took the biggest hit, down 6.25% to $701.38. It bounced from a $748.22 high but couldn't stay above $680. Volume topped 618 k BNB, worth about $436 m.\n\nWatch the $BTC price action around the $77k-$78k zone; a break either way could set the next short-term range.",
     "postId": 382936848509887,
     "shareLink": "https://app.binance.com/uni-qr/cpos/382936848509887?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-30T12:37:29.595Z",
-    "theme": "leaders-laggards",
-    "text": "$PEPE's up 7.76% to $0.00000528, spiking near its $0.00000568 high while volume surged past $293 M. $HYPE followed with a 4.36% gain, trading at $92.26 after bouncing off a $97.74 peak. Meanwhile $INTC plunged 25.55% to $68.84, sliding from a $93.54 high and dumping $50 M in volume. The leaders are ripping ahead; the laggard is tumbling hard. Just a wild swing in the last day.",
-    "postId": 382863972237972,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/382863972237972?r=B492ZGBN&l=en"
   }
 ]
