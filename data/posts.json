@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-06T18:44:04.621Z",
+    "theme": "relative-strength",
+    "text": "$BTC slipped 0.34% in the last 24 hours. Meanwhile the 20-coin basket is up about 1.74%, so the average alt is pulling ahead of Bitcoin. $ETH is losing a little ground against $BTC too, down 0.61% on the BTC pair. Overall the market's modest dip in Bitcoin contrasts with a small-but-clear edge for the broader alt set, while ether's relative strength is fading. Nothing wild, just a quiet shift toward the rest of the market.",
+    "postId": 385431324755776,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/385431324755776?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-06T14:05:03.417Z",
     "theme": "tokenized-stocks",
     "text": "$CRCLB's hanging at 69.03 USDT, down 6.94% after hitting a high of 74.49 USDT and a low of 65 USDT. Volume sat around 35.17 M USDT, so the tokenized stock kept moving through the night.\n\nTesla's bStock $TSLAB slipped to 351.96 USDT, a 6.26% drop from its peak of 375.5 USDT. The low hit 335.78 USDT and the 24/7 flow pulled in about 9.43 M USDT.\n\nMicron token $MUB slid harder, landing at 693.33 USDT, down 8.25% after a high of 762.78 USDT and a low of 649.69 USDT. Trade activity topped 32.3 M USDT, showing the tokenized stock stayed active well past regular market hours.",
@@ -201,12 +208,5 @@
     "text": "$PEPE's up 7.76% to $0.00000528, spiking near its $0.00000568 high while volume surged past $293 M. $HYPE followed with a 4.36% gain, trading at $92.26 after bouncing off a $97.74 peak. Meanwhile $INTC plunged 25.55% to $68.84, sliding from a $93.54 high and dumping $50 M in volume. The leaders are ripping ahead; the laggard is tumbling hard. Just a wild swing in the last day.",
     "postId": 382863972237972,
     "shareLink": "https://app.binance.com/uni-qr/cpos/382863972237972?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-10-30T03:29:05.440Z",
-    "theme": "leaders-laggards",
-    "text": "$HYPEUSDT jumped 16.5% to $91.22, flashing a high of $97.74 before slipping to $78.19 on the way up. $TRXUSDT added 6.4% to settle at $0.352, nudging a $0.3654 peak while staying above $0.3286. Meanwhile $NEARUSDT fell 7.1% to $4.098, trading between $4.69 and $3.909. Volume stayed hefty across the board, with $HYPEUSDT moving over 186 M USDT and $NEARUSDT pushing 228 M. One pair's sprint, another's stumble, that's the 24-hour spread.",
-    "postId": 382729196844614,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/382729196844614?r=B492ZGBN&l=en"
   }
 ]
