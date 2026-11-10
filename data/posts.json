@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-10T19:09:20.230Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $73,418, down 1.665% after hitting a high of $75,442.01. Volume was about 16.3k BTC, moving $1.21 B in quote terms.\n\n$ETH fell harder, landing at $2,043.54, a 3.764% drop from the day's peak $2,143.44. It traded 328,908 ETH, pushing $681 M in quote volume.\n\n$BNB edged lower too, closing at $674.40, off 1.887% from its $692.64 high. Activity clocked 127,461 BNB, about $87.4 M in quote volume.\n\nWatch the $BTC order-book depth as it approaches the $73k-$74k zone; any shift there could set the tone for the next session.",
+    "postId": 386853110325491,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/386853110325491?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-10T14:42:43.683Z",
     "theme": "leaders-laggards",
     "text": "$INIT exploded, up about 138% to $0.31109, trading between $0.12658 and $0.315 with ~25.7 M USDT swapped. Meanwhile $SOL slipped 3.4% to $84.15, its range narrowed to $82.61-$88.07 on a hefty 177.9 M volume. $AVAX also fell, down 5% to $8.39, low of $8.23, high $9.01 and 43.9 M USDT moved. One pair rockets, the others lose steam. Looks like a mixed bag today.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $77,459.5, down 0.69% after hitting a high of $78,150 and a low of $76,388.88. Volume held around 14,709 BTC.\n\n$ETH was flat at $2,289.82, up just 0.003%; it bounced between $2,309 and $2,237.38 with 165,946 ETH changing hands.\n\n$BNB fell to $699.11, down 0.84% from a peak of $706.18, trading in a range of $691.66-$706.18 on 100,946 BNB volume.\n\nWatch the $BTC price action around the $78k-$77k zone for the next swing.",
     "postId": 384299548600101,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384299548600101?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-03T04:32:09.839Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped 2.02% to $77,022, hugging the low of $76,542 after hitting $78,610 earlier. $ETH fell 2.168% to $2,258, trading near its $2,237 floor while the high peaked at $2,308. $BNB dropped 2.353% to $697.2, barely above the $693.8 trough and well under the $714 top. Volume stayed solid across the board, $BTC saw about 14.2k trades, $ETH over 200k, $BNB around 108k.\n\nWatch the $BTC price action around the $78k-$77k zone tomorrow; a break either way could set the next short-term direction.",
-    "postId": 384160275330893,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384160275330893?r=B492ZGBN&l=en"
   }
 ]
