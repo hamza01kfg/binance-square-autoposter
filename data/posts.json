@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-10T00:36:26.702Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped a hair to $75,078, down 0.02% after testing $75,599. The 24-hour range was $73,750-$75,599 on ~15.3k BTC volume. $ETH fell 0.75% to $2,126, hitting a high of $2,160 and a low of $2,083 with ~291k ETH traded. $BNB nudged up 0.37% to $689, staying between $673 and $693 on about 116k BNB volume.\n\nWatch the $BTC price action around the $75,600 resistance; a break could set the tone for the next session.",
+    "postId": 386579605945708,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/386579605945708?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-09T21:48:58.546Z",
     "theme": "morning-brief",
     "text": "$BTC slid to $74,920, down 0.6% after hitting $75,734.51 and testing $73,510. Volume sat around 19.5 k, so liquidity stayed decent.\n\n$ETH dropped 3.9% to $2,128.36, a pull from the $2,214.83 high; the low was $2,060. With 431 k coins traded, the market showed real appetite despite the dip.\n\n$BNB nudged lower, ending at $690.09, off 0.5% from the $693.73 peak, and bounced off $673.31. About 165 k BNB changed hands, keeping the quote volume near $112 M.\n\nAll three slipped a bit, no wild swings, just a modest pullback across the board.",
@@ -201,12 +208,5 @@
     "text": "$ETH is up 0.83% against $BTC, so it's gaining a bit of ground in BTC terms. $BTC itself slipped 1.33% over the last 24 h. The 20-coin basket of top alts dropped 4.22% on average, meaning the whole alt set is underperforming both $BTC and $ETH. In short, $BTC is lagging behind $ETH, but both are holding up better than the broader alt market. Nothing wild, just $ETH tightening its lead while the rest of the alts keep sliding.",
     "postId": 384052647969259,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384052647969259?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-02T15:28:52.061Z",
-    "theme": "morning-brief",
-    "text": "$BTC slipped to $78,018, down 0.08% in 24 h. It hit a high of $78,878 and a low of $77,603, volume just over 10 k.\n\n$ETH nudged up 1% to $2,294.21, trading between $2,317.84 and $2,247.84. Volume jumped past 224 k, quote volume around $514 M.\n\n$BNB fell 1.3% to $705.53, swinging from $716 high to $703.13 low. It moved 107 k in volume, quote volume about $76 M.\n\nBTC's tight range, ETH's slight bounce and BNB's pullback are the headline moves. Keep an eye on how those bands hold.",
-    "postId": 383967772437190,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/383967772437190?r=B492ZGBN&l=en"
   }
 ]
