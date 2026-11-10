@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-10T05:10:36.077Z",
+    "theme": "leaders-laggards",
+    "text": "$SOXLBUSDT surged 22.2% to $54.86, bouncing from a low of $41.32 up to $57.76 on heavy volume. $AVAXUSDT followed with a 7.5% jump, trading at $8.57 after hovering between $7.81 and $9.01. Meanwhile $ZECUSDT slipped 6.1% to $1,156.57, sliding from a high of $1,235.99 down to $1,142.34 despite the biggest quote volume in the set. The market's pulling ahead on the bullish side while the losers are getting squeezed. Looks like a split-personality day.",
+    "postId": 386646982523568,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/386646982523568?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-10T00:36:26.702Z",
     "theme": "daily-recap",
     "text": "$BTC slipped a hair to $75,078, down 0.02% after testing $75,599. The 24-hour range was $73,750-$75,599 on ~15.3k BTC volume. $ETH fell 0.75% to $2,126, hitting a high of $2,160 and a low of $2,083 with ~291k ETH traded. $BNB nudged up 0.37% to $689, staying between $673 and $693 on about 116k BNB volume.\n\nWatch the $BTC price action around the $75,600 resistance; a break could set the tone for the next session.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $76,834, down 1.85% after peaking at $78,878. Volume hovered around 12.6k BTC. $ETH eased to $2,253.6, a 0.87% drop, with a high of $2,317.84 and 253k ETH changing hands. $BNB fell to $698.97, down 1.90% from a $716 top, trading about 115k BNB.\n\nWatch the $BTC order-book depth as it tests the $76.7k support zone; a break could set the tone for the next session.",
     "postId": 384090853163485,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384090853163485?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-02T21:14:13.620Z",
-    "theme": "relative-strength",
-    "text": "$ETH is up 0.83% against $BTC, so it's gaining a bit of ground in BTC terms. $BTC itself slipped 1.33% over the last 24 h. The 20-coin basket of top alts dropped 4.22% on average, meaning the whole alt set is underperforming both $BTC and $ETH. In short, $BTC is lagging behind $ETH, but both are holding up better than the broader alt market. Nothing wild, just $ETH tightening its lead while the rest of the alts keep sliding.",
-    "postId": 384052647969259,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384052647969259?r=B492ZGBN&l=en"
   }
 ]
