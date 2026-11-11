@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T13:57:49.694Z",
+    "theme": "relative-strength",
+    "text": "$ETH/$BTC is at 0.02787, down 0.606% versus BTC. Meanwhile $BTC slipped 0.119% in USD terms, so the whole market's a bit softer. The 20-coin basket, however, nudged up 0.447% overall, meaning the average alt outperformed BTC today. ETH is losing a touch of relative strength to BTC, while the broader alt set is holding a slight edge. Nothing wild, just a modest tilt toward the alt basket and a small bleed for the big guys.",
+    "postId": 387130448204853,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/387130448204853?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-11T03:43:03.210Z",
     "theme": "leaders-laggards",
     "text": "$INIT surged 62% to $0.288, hitting $0.332 at the high and dumping a hefty $35.6 M in quote volume. $ONE jumped 25% to $0.001745, with a peak of $0.00208 and $28.1 M flowing through. Meanwhile $ZEC slipped 10% down to $1 030, still swinging between $1 200 and $994 and moving a massive $256 M. Gains are blasting off while $ZEC's taking the hit. Looks like the short-term winners are tiny-cap rockets, and the big-cap miner is feeling the pressure.",
@@ -201,12 +208,5 @@
     "text": "$NVDAB slipped 0.84% to 202.3 USDT, hovering just above its low of 201.91 USDT after hitting a brief 211.14 USDT high. Volume kept ticking, about 13.2 M USDT flowing through the tokenized stock while the market slept.\n\nS&P 500's bStock, $SPYB, dropped the same 0.83% to 746.58 USDT. It's stuck near the bottom of its 745.09-758.69 USDT range, with roughly 1.48 M USDT changing hands, steady 24/7 action while the ETF's regular market is closed.\n\nCerebras token, $CBRSB, took the biggest hit, down 2.23% to 94.24 USDT. The token fell from a 102.33 USDT peak down to a 93.05 USDT trough, and about 0.97 M USDT moved in the last stretch. All three bStocks are just grinding through the night.",
     "postId": 384504347941859,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384504347941859?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-03T22:14:18.074Z",
-    "theme": "morning-brief",
-    "text": "$BTC's up 1.26% to $77,811, bounced off the high of $78,063 and held above the low of $76,389. Volume sat around 12,800 BTC, so the move had decent liquidity.\n\n$ETH climbed 1.64% to $2,293, touched $2,309 before slipping to $2,241 on the low side. With 146,500 ETH traded, the rally felt solid.\n\n$BNB barely budged, +0.18% to $700.76, hovering between $691.66 and $703.30. Roughly 90,600 BNB changed hands, keeping the range tight.",
-    "postId": 384421306227656,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384421306227656?r=B492ZGBN&l=en"
   }
 ]
