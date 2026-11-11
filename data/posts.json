@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T19:05:54.406Z",
+    "theme": "daily-recap",
+    "text": "$BTC nudged up 1.33% to $74,356, hitting a high of $74,780 before easing back to a low of $73,209. Volume steadied around 14.3 K, moving roughly $1.06 B in quote terms.\n\n$ETH outpaced it a touch, climbing 1.70% to $2,077.69, topped out at $2,103.78 and found support near $2,038.53. Trading was busy, 189 K coins swapped, pushing $390 M of USDT.\n\n$BNB posted the strongest percent gain, up 1.76% to $685.98, with a tight range between $673.26 and $689.30. 76 K BNB moved, translating to $52 M in quote volume.\n\nWatch the $BTC order book depth as price tests the $74,780 ceiling again; any break could reshape the short-term spread.",
+    "postId": 387206161523132,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/387206161523132?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-11T13:57:49.694Z",
     "theme": "relative-strength",
     "text": "$ETH/$BTC is at 0.02787, down 0.606% versus BTC. Meanwhile $BTC slipped 0.119% in USD terms, so the whole market's a bit softer. The 20-coin basket, however, nudged up 0.447% overall, meaning the average alt outperformed BTC today. ETH is losing a touch of relative strength to BTC, while the broader alt set is holding a slight edge. Nothing wild, just a modest tilt toward the alt basket and a small bleed for the big guys.",
@@ -201,12 +208,5 @@
     "text": "$BTC up 1.4% to $78,357, hit a high of $78,718 before easing to a low of $75,736. Volume sat around 14,595 BTC, pushing quote volume past $1.13 B.\n\n$ETH climbed 1.5% to $2,317, peaked at $2,339 and found support near $2,226. Traders moved roughly 200,288 ETH, giving a quote flow of $459.3 M.\n\n$BNB inched up 0.7% to $700.94, topped out at $705.70, dipped to $680.74. About 147,108 BNB changed hands, translating to $102.5 M in quote volume.\n\nWatch the $BTC order-book depth as price hovers between its 24-hour high and low, any shift could nudge the pair one way or the other.",
     "postId": 384657247412205,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384657247412205?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-04T03:52:11.938Z",
-    "theme": "tokenized-stocks",
-    "text": "$NVDAB slipped 0.84% to 202.3 USDT, hovering just above its low of 201.91 USDT after hitting a brief 211.14 USDT high. Volume kept ticking, about 13.2 M USDT flowing through the tokenized stock while the market slept.\n\nS&P 500's bStock, $SPYB, dropped the same 0.83% to 746.58 USDT. It's stuck near the bottom of its 745.09-758.69 USDT range, with roughly 1.48 M USDT changing hands, steady 24/7 action while the ETF's regular market is closed.\n\nCerebras token, $CBRSB, took the biggest hit, down 2.23% to 94.24 USDT. The token fell from a 102.33 USDT peak down to a 93.05 USDT trough, and about 0.97 M USDT moved in the last stretch. All three bStocks are just grinding through the night.",
-    "postId": 384504347941859,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384504347941859?r=B492ZGBN&l=en"
   }
 ]
