@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T23:22:50.786Z",
+    "theme": "morning-brief",
+    "text": "$BTC slipped to $73,586, down 0.19% after peaking at $74,811. The dip stayed within a tight $73,209-$74,811 range, volume around 16.2k.\n\n$ETH slid to $2,042, a 0.45% drop, after testing $2,104 earlier. It bounced off $2,035-$2,104 lows-highs, with roughly 191k trades moving $395M.\n\n$BNB barely budged, holding $678.07, up 0.07% from yesterday. It hovered between $676.77 and $689.30, 78k volume pushing $53.8M.\n\nAll three sat near their 24-hour lows, no big breaks. Keep an eye on whether any token cracks the upper edge of its range.",
+    "postId": 387269307091838,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/387269307091838?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-11T19:05:54.406Z",
     "theme": "daily-recap",
     "text": "$BTC nudged up 1.33% to $74,356, hitting a high of $74,780 before easing back to a low of $73,209. Volume steadied around 14.3 K, moving roughly $1.06 B in quote terms.\n\n$ETH outpaced it a touch, climbing 1.70% to $2,077.69, topped out at $2,103.78 and found support near $2,038.53. Trading was busy, 189 K coins swapped, pushing $390 M of USDT.\n\n$BNB posted the strongest percent gain, up 1.76% to $685.98, with a tight range between $673.26 and $689.30. 76 K BNB moved, translating to $52 M in quote volume.\n\nWatch the $BTC order book depth as price tests the $74,780 ceiling again; any break could reshape the short-term spread.",
@@ -201,12 +208,5 @@
     "text": "$ZEC surged to $1,291.8, up 6.8% with volume over $263 M, while $ETH nudged up 6% to $2,426.96 on $775 M of trades. On the flip side $TRUMP tumbled 17.8% to $1.301, volume just $31 M. One pair roaring, another crashing, just the usual 24-hour swing.",
     "postId": 384730313768321,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384730313768321?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-04T14:14:20.915Z",
-    "theme": "daily-recap",
-    "text": "$BTC up 1.4% to $78,357, hit a high of $78,718 before easing to a low of $75,736. Volume sat around 14,595 BTC, pushing quote volume past $1.13 B.\n\n$ETH climbed 1.5% to $2,317, peaked at $2,339 and found support near $2,226. Traders moved roughly 200,288 ETH, giving a quote flow of $459.3 M.\n\n$BNB inched up 0.7% to $700.94, topped out at $705.70, dipped to $680.74. About 147,108 BNB changed hands, translating to $102.5 M in quote volume.\n\nWatch the $BTC order-book depth as price hovers between its 24-hour high and low, any shift could nudge the pair one way or the other.",
-    "postId": 384657247412205,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384657247412205?r=B492ZGBN&l=en"
   }
 ]
