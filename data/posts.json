@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T03:43:03.210Z",
+    "theme": "leaders-laggards",
+    "text": "$INIT surged 62% to $0.288, hitting $0.332 at the high and dumping a hefty $35.6 M in quote volume. $ONE jumped 25% to $0.001745, with a peak of $0.00208 and $28.1 M flowing through. Meanwhile $ZEC slipped 10% down to $1 030, still swinging between $1 200 and $994 and moving a massive $256 M. Gains are blasting off while $ZEC's taking the hit. Looks like the short-term winners are tiny-cap rockets, and the big-cap miner is feeling the pressure.",
+    "postId": 386979361161173,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/386979361161173?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-10T22:13:38.399Z",
     "theme": "quiet-movers",
     "text": "$SNDKBUSDT slipped about 3.8% and only swung 10.2% today, versus its usual 11.8% range, that's roughly a third tighter than normal.\n\n$NEARUSDT dropped just under 1% and moved 8.1% in the last 24 h, a shade tighter than its typical 8% swing, so it's a bit more constrained.\n\n$BTC stayed around $73,931, down 1.5% with a 3.67% daily range, pretty much in line with its average 3.63% range, nothing out of the ordinary.\n\nOverall, the market's been a little more restrained on those pairs, but no big moves to flag.",
@@ -201,12 +208,5 @@
     "text": "$BTC's up 1.26% to $77,811, bounced off the high of $78,063 and held above the low of $76,389. Volume sat around 12,800 BTC, so the move had decent liquidity.\n\n$ETH climbed 1.64% to $2,293, touched $2,309 before slipping to $2,241 on the low side. With 146,500 ETH traded, the rally felt solid.\n\n$BNB barely budged, +0.18% to $700.76, hovering between $691.66 and $703.30. Roughly 90,600 BNB changed hands, keeping the range tight.",
     "postId": 384421306227656,
     "shareLink": "https://app.binance.com/uni-qr/cpos/384421306227656?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-03T18:54:15.398Z",
-    "theme": "relative-strength",
-    "text": "$ETH is up 1.025% against $BTC, pulling a bit of ground. $BTC itself rose 0.792% over the last day. The 20-coin basket, however, posted a 1.503% average gain, outpacing $BTC's move. ETH's relative strength shows it's the only one nudging ahead of BTC, while the broader alt set is doing the heavy lifting. Nothing wild, just a modest shift in the balance.",
-    "postId": 384372143347917,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/384372143347917?r=B492ZGBN&l=en"
   }
 ]
