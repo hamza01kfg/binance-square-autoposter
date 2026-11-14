@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-14T04:00:04.652Z",
+    "theme": "tokenized-stocks",
+    "text": "$NVDAB slipped to 161.42 USDT, down 1.507% after hitting a high of 171.59 USDT. Volume sat around 149.6 M USDT, so the move kept rolling through the night.\n\nSandisk's token, $SNDKB, took a deeper tumble, 861.04 USDT now, a 6.981% drop from its peak at 946.58 USDT. Trade activity was lighter, about 28.7 M USDT, but the dip held steady past regular market close.\n\nTesla's bStock, $TSLAB, hovered near 387.65 USDT, down 2.574% after a brief pop to 404.54 USDT. With roughly 3.34 M USDT changing hands, the price kept drifting in after hours.\n\nAll three kept moving while traditional exchanges were offline, just another 24/7 crypto-style grind.",
+    "postId": 388045227914643,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/388045227914643?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-13T22:25:38.082Z",
     "theme": "quiet-movers",
     "text": "$SPCXBUSDT slipped about 1.7% and its 24-hour swing was roughly 4.36%, noticeably tighter than its usual ~6% daily range, about a third less volatile than normal.\n\n$PEPEUSDT dropped 2.9% and only moved around 7.73% in the last day, which is also somewhat tighter compared with its typical ~9.8% swing.\n\n$XRPUSDT slid 2.5% and saw a 4.59% range, basically in line with its average 4.83% range, so nothing out of the ordinary there.\n\nAll three were down, but the first two kept their moves a bit more contained than they usually do.",
@@ -201,12 +208,5 @@
     "text": "$BTC's hovering at $75,910, down 0.04% in 24 h. It bounced off the day-high of $76,416 and found support near $74,888, so the range stayed tight.\n\n$ETH slipped a touch, up 0.236% to $2,239.48. The pair nudged the high of $2,251 before retreating to the low of $2,206.28, trading in a narrow band with solid volume.\n\n$BNB led the pack, up 0.675% at $693.88. It chased the $699.51 peak, then settled above the $683.94 floor, showing a bit more bite than the other two.\n\nAll three held their recent ranges, volume staying healthy across the board. No wild swings yet, just a calm day of small moves. Keep an eye on whether any token can break out of these bands later.",
     "postId": 385479232504278,
     "shareLink": "https://app.binance.com/uni-qr/cpos/385479232504278?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-06T18:44:04.621Z",
-    "theme": "relative-strength",
-    "text": "$BTC slipped 0.34% in the last 24 hours. Meanwhile the 20-coin basket is up about 1.74%, so the average alt is pulling ahead of Bitcoin. $ETH is losing a little ground against $BTC too, down 0.61% on the BTC pair. Overall the market's modest dip in Bitcoin contrasts with a small-but-clear edge for the broader alt set, while ether's relative strength is fading. Nothing wild, just a quiet shift toward the rest of the market.",
-    "postId": 385431324755776,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/385431324755776?r=B492ZGBN&l=en"
   }
 ]
