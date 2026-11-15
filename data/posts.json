@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-15T13:48:10.438Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped 2.2% to $65,480, hitting a high of $66,922 before bottoming out near $62,006. $ETH fell 3.3% to $1,832, with the day's range from $1,711 up to $1,895. $BNB dropped just under 2% to $596.6, after rallying to $608.72 and testing $566 on the low side.\n\nVolume stayed solid: BTC traded ~41k coins (~$2.65 B), ETH pushed 619k (~$1.12 B), and BNB moved 275k (~$162 M).\n\nWatch the $BTC 24-hour low-high spread, if it narrows back toward the $66k zone, it could set the next price anchor.",
+    "postId": 388543653183465,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/388543653183465?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-15T03:45:52.870Z",
     "theme": "relative-strength",
     "text": "$ETH slipped against $BTC, down 0.638% to 0.02803 BTC. Meanwhile $BTC fell 2.657% in USD terms, while the 20-coin basket lagged harder, down about 6.32% on average. So BTC's still beating the alt pack, but it's losing ground to $ETH. $ETH's modest gain versus BTC barely offsets the broader sell-off across the basket. Overall a rough 24-hour grind, with everything trending lower.",
@@ -201,12 +208,5 @@
     "text": "$ONE swung hard, covering about 40 % of the price range in the last 24 h, that's more than twice its normal daily swing of ~18 %. $ZEC barely budged, its 24-hour range sat at roughly 8 % versus a typical 10 % span, so it stayed close to usual. Nothing crazy beyond the ONE burst; just a quick, noisy ride.",
     "postId": 385911638043737,
     "shareLink": "https://app.binance.com/uni-qr/cpos/385911638043737?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-07T20:43:58.763Z",
-    "theme": "breakout-watch",
-    "text": "$ONE surged 46.8% and ripped through a 38.6% range in the last 24 h, that's more than twice its usual daily swing, so the token moved a lot more than typical.\n\n$ZEC slipped about 5.8% while its price window stayed around 9 % today, essentially the same as its weekly average, so nothing out of the ordinary there.\n\n$XRP edged down 1.5% in a tight 2.9% band, well under its normal 4.5% range, meaning it was pretty calm.\n\nJust a quick heads-up on the wild swing for $ONE and the steady vibe for the others.",
-    "postId": 385814686264307,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/385814686264307?r=B492ZGBN&l=en"
   }
 ]
