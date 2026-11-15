@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-15T21:34:03.568Z",
+    "theme": "daily-recap",
+    "text": "$BTC hovered at $64,976, up 0.69% with a high of $66,132 and low of $62,006. Volume hit ~33k BTC, showing a modest flow.\n\n$ETH jumped 2.02% to $1,816, touched $1,845 before slipping to $1,711. Over 489k ETH traded, pushing quote volume past $876 M.\n\n$BNB rose 2.45% to $592.9, peaked at $599.7 and found support near $566. Around 171k BNB changed hands, generating $100 M in quote volume.\n\nWatch the $BTC intraday range around $66k-$62k; any break of that band could set the tone for the next session.",
+    "postId": 388658149170450,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/388658149170450?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-15T18:20:00.486Z",
     "theme": "relative-strength",
     "text": "$ETH is gaining ground on $BTC, up 0.718% in the BTC-price pair, while $BTC slipped 1.644% overall. The 20-coin basket fell 0.947% on average, so Bitcoin's drop outpaced the alts. In other words, $BTC is underperforming the basket, and $ETH is nudging ahead of $BTC. Nothing wild, just a modest shift in relative strength.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $75,710, down 0.097% in 24 h, hugging its low of $75,571 after a brief pop to $76,200. Volume held near 5,100 BTC, so the move wasn't a flash-sell.\n\n$ETH lingered around $2,226, down 0.343% with a high of $2,246 and a low of $2,223.1. Trading about 56,800 ETH, the market stayed tight; nothing broke the range.\n\n$BNB edged up to $695.95, +0.206% after testing $702 before settling near $693.9. Volume topped 52,700 BNB, showing a modest buy-side bite.\n\nAll three sat in narrow bands; watch if any breaks past today's highs or lows for the next cue.",
     "postId": 386120226528563,
     "shareLink": "https://app.binance.com/uni-qr/cpos/386120226528563?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-08T13:09:47.751Z",
-    "theme": "relative-strength",
-    "text": "$ETH slipped 0.169% against $BTC, so it's losing a bit of relative strength. $BTC rose 0.196% in USD, but the 20-coin basket nudged up 0.308%, edging out the king. Alt average outpaced $BTC, while $ETH fell behind its own benchmark. Nothing wild, just a small shuffle of relative gains.",
-    "postId": 386056960563711,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/386056960563711?r=B492ZGBN&l=en"
   }
 ]
