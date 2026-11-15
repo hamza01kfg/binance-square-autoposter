@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-15T18:20:00.486Z",
+    "theme": "relative-strength",
+    "text": "$ETH is gaining ground on $BTC, up 0.718% in the BTC-price pair, while $BTC slipped 1.644% overall. The 20-coin basket fell 0.947% on average, so Bitcoin's drop outpaced the alts. In other words, $BTC is underperforming the basket, and $ETH is nudging ahead of $BTC. Nothing wild, just a modest shift in relative strength.",
+    "postId": 388610459077779,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/388610459077779?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-15T13:48:10.438Z",
     "theme": "daily-recap",
     "text": "$BTC slipped 2.2% to $65,480, hitting a high of $66,922 before bottoming out near $62,006. $ETH fell 3.3% to $1,832, with the day's range from $1,711 up to $1,895. $BNB dropped just under 2% to $596.6, after rallying to $608.72 and testing $566 on the low side.\n\nVolume stayed solid: BTC traded ~41k coins (~$2.65 B), ETH pushed 619k (~$1.12 B), and BNB moved 275k (~$162 M).\n\nWatch the $BTC 24-hour low-high spread, if it narrows back toward the $66k zone, it could set the next price anchor.",
@@ -201,12 +208,5 @@
     "text": "$ETH slipped 0.169% against $BTC, so it's losing a bit of relative strength. $BTC rose 0.196% in USD, but the 20-coin basket nudged up 0.308%, edging out the king. Alt average outpaced $BTC, while $ETH fell behind its own benchmark. Nothing wild, just a small shuffle of relative gains.",
     "postId": 386056960563711,
     "shareLink": "https://app.binance.com/uni-qr/cpos/386056960563711?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-08T03:18:28.592Z",
-    "theme": "breakout-watch",
-    "text": "$ONE swung hard, covering about 40 % of the price range in the last 24 h, that's more than twice its normal daily swing of ~18 %. $ZEC barely budged, its 24-hour range sat at roughly 8 % versus a typical 10 % span, so it stayed close to usual. Nothing crazy beyond the ONE burst; just a quick, noisy ride.",
-    "postId": 385911638043737,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/385911638043737?r=B492ZGBN&l=en"
   }
 ]
