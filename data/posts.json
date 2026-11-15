@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-15T03:45:52.870Z",
+    "theme": "relative-strength",
+    "text": "$ETH slipped against $BTC, down 0.638% to 0.02803 BTC. Meanwhile $BTC fell 2.657% in USD terms, while the 20-coin basket lagged harder, down about 6.32% on average. So BTC's still beating the alt pack, but it's losing ground to $ETH. $ETH's modest gain versus BTC barely offsets the broader sell-off across the basket. Overall a rough 24-hour grind, with everything trending lower.",
+    "postId": 388395633693748,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/388395633693748?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-14T21:13:35.747Z",
     "theme": "leaders-laggards",
     "text": "$BTC slid 6.1% to $64,398, hugging its low of $64,376 after topping $68,633. Meanwhile $UNI plunged 18.2% to $4.72, barely breaking $4.72 on the way down from a high of $5.79. The big picture? Bitcoin's still dragging the market while Uni's the sharpest drop-off in the basket. Nothing wild, just a clear split between the top mover and the biggest loser.",
@@ -201,12 +208,5 @@
     "text": "$ONE surged 46.8% and ripped through a 38.6% range in the last 24 h, that's more than twice its usual daily swing, so the token moved a lot more than typical.\n\n$ZEC slipped about 5.8% while its price window stayed around 9 % today, essentially the same as its weekly average, so nothing out of the ordinary there.\n\n$XRP edged down 1.5% in a tight 2.9% band, well under its normal 4.5% range, meaning it was pretty calm.\n\nJust a quick heads-up on the wild swing for $ONE and the steady vibe for the others.",
     "postId": 385814686264307,
     "shareLink": "https://app.binance.com/uni-qr/cpos/385814686264307?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-07T17:14:48.798Z",
-    "theme": "leaders-laggards",
-    "text": "$ONE surged 43.7% to $0.002267, hitting a high of $0.002476 after slipping down to $0.001546 earlier. $UNI nudged up 1.7% to $7.056, trading between $6.861 and $7.105. Meanwhile $ZEC fell 7.2% to $1,265.01, its low was $1,250.90 and it barely broke $1,368 on the upside. Leaders are ripping through the low-volume zone, laggards are dragging in the heavy-volume crowd. Nothing wild, just a clear split between the rockets and the sinkers.",
-    "postId": 385763281751936,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/385763281751936?r=B492ZGBN&l=en"
   }
 ]
