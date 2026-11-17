@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-17T20:18:24.692Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped 1.8% to $63,881, hit a high of $65,534 before easing back down to a low of $63,336. Volume sat around 27.3k BTC, pushing roughly $1.77 B in quote terms.\n\n$ETH dropped 1.35% to $1,796, touched $1,843 on the upside, and found a floor near $1,751. It traded about 336.6k ETH, moving $608 M in quote volume.\n\n$BNB nudged down 0.58% to $588, peaked at $595.5 and lingered above $580.78. Spot volume hit 112.5k BNB, generating $66.4 M in quote.\n\nWatch the $BTC 24-hour high-low range; any breach of the $65.5k ceiling could set the next swing direction.",
+    "postId": 389347346753592,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/389347346753592?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-17T15:51:00.532Z",
     "theme": "leaders-laggards",
     "text": "$ZEC surged 5.58% to $920.85, hitting a high of $959.95 before easing back. $UNI nudged up 1.5% to $5.21, trading in a tight $5.08-$5.45 range. Meanwhile $SOXL tanked 11.44% down to $45.07, sliding from a peak of $52.71 and barely holding above $44.40. Leaders grabbed upside while the laggard ripped hard lower, just the way 24-hour swings go.",
@@ -201,12 +208,5 @@
     "text": "$INIT exploded, up about 138% to $0.31109, trading between $0.12658 and $0.315 with ~25.7 M USDT swapped. Meanwhile $SOL slipped 3.4% to $84.15, its range narrowed to $82.61-$88.07 on a hefty 177.9 M volume. $AVAX also fell, down 5% to $8.39, low of $8.23, high $9.01 and 43.9 M USDT moved. One pair rockets, the others lose steam. Looks like a mixed bag today.",
     "postId": 386787588283786,
     "shareLink": "https://app.binance.com/uni-qr/cpos/386787588283786?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-10T05:10:36.077Z",
-    "theme": "leaders-laggards",
-    "text": "$SOXLBUSDT surged 22.2% to $54.86, bouncing from a low of $41.32 up to $57.76 on heavy volume. $AVAXUSDT followed with a 7.5% jump, trading at $8.57 after hovering between $7.81 and $9.01. Meanwhile $ZECUSDT slipped 6.1% to $1,156.57, sliding from a high of $1,235.99 down to $1,142.34 despite the biggest quote volume in the set. The market's pulling ahead on the bullish side while the losers are getting squeezed. Looks like a split-personality day.",
-    "postId": 386646982523568,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/386646982523568?r=B492ZGBN&l=en"
   }
 ]
