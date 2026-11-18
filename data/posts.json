@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-18T19:49:13.812Z",
+    "theme": "relative-strength",
+    "text": "$ETH slipped a hair against $BTC, down 0.178% to 0.02803 BTC. Meanwhile $BTC fell 1.729% in USD terms. The 20-coin basket actually rose 2.256% over the same period, so altcoins are beating Bitcoin hands-down. In short: $BTC is lagging the basket, and $ETH is losing a bit of relative strength versus $BTC. Nothing wild, just the usual 24-hour shuffle.",
+    "postId": 389694069622184,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/389694069622184?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-18T15:29:01.638Z",
     "theme": "morning-brief",
     "text": "$BTC slid to $63,573, down 2.16% in 24 h. The high hit $65,268, low sat at $63,085, and about 19,600 BTC changed hands, pushing quote volume past $1.26 B.\n\n$ETH is at $1,772, off 2.05%. It peaked near $1,836 and found support around $1,751.4. Roughly 319 k ETH traded, giving $572 M in quote volume.\n\n$BNB slipped just under 1% to $586.29. The day's range was $580.78-$599.42, with 134 k BNB swapping for about $79.4 M in quote volume.\n\nAll three slipped into the red, but volume stayed solid. Looks like a calm pull-back across the board.",
@@ -201,12 +208,5 @@
     "text": "$ETH/$BTC is at 0.02787, down 0.606% versus BTC. Meanwhile $BTC slipped 0.119% in USD terms, so the whole market's a bit softer. The 20-coin basket, however, nudged up 0.447% overall, meaning the average alt outperformed BTC today. ETH is losing a touch of relative strength to BTC, while the broader alt set is holding a slight edge. Nothing wild, just a modest tilt toward the alt basket and a small bleed for the big guys.",
     "postId": 387130448204853,
     "shareLink": "https://app.binance.com/uni-qr/cpos/387130448204853?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-11T03:43:03.210Z",
-    "theme": "leaders-laggards",
-    "text": "$INIT surged 62% to $0.288, hitting $0.332 at the high and dumping a hefty $35.6 M in quote volume. $ONE jumped 25% to $0.001745, with a peak of $0.00208 and $28.1 M flowing through. Meanwhile $ZEC slipped 10% down to $1 030, still swinging between $1 200 and $994 and moving a massive $256 M. Gains are blasting off while $ZEC's taking the hit. Looks like the short-term winners are tiny-cap rockets, and the big-cap miner is feeling the pressure.",
-    "postId": 386979361161173,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/386979361161173?r=B492ZGBN&l=en"
   }
 ]
