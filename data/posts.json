@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-18T05:05:43.292Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $64,426, down 0.73% after hitting $65,447 earlier. Volume sat around 26 k BTC, pushing $1.68 B in quote flow.\n\n$ETH fell 1.57% to $1,803, with a high of $1,844 and a low of $1,751. Over 350 k ETH changed hands, moving $632 M in USDT.\n\n$BNB edged lower, closing at $592, a 0.34% dip from its $599 top. Trade activity hit 141 k BNB, generating $83.6 M in quote volume.\n\nWatch the $BTC 24-hour range; a break back above $65,000 could test whether the recent pullback was just a pause.",
+    "postId": 389476938511371,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/389476938511371?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-17T23:47:12.007Z",
     "theme": "quiet-movers",
     "text": "$HYPE is hovering around $69.82, down a hair at –0.14%. Its 24-hour swing was just 4.87%, about a third tighter than the typical 8.78% range.\n\n$BNB slipped a touch to $595.97, up 0.97% on the day. The price moved only 3.13% versus its usual 4.98%, that's a bit tighter than normal.\n\n$ZEC held steady near $961.2, up 6.72%. The daily range clocked in at 8.01%, noticeably less than the 11.94% it normally sees.\n\nAll three are just moving inside a narrower band than usual, nothing wild.",
@@ -201,12 +208,5 @@
     "text": "$SNDKBUSDT slipped about 3.8% and only swung 10.2% today, versus its usual 11.8% range, that's roughly a third tighter than normal.\n\n$NEARUSDT dropped just under 1% and moved 8.1% in the last 24 h, a shade tighter than its typical 8% swing, so it's a bit more constrained.\n\n$BTC stayed around $73,931, down 1.5% with a 3.67% daily range, pretty much in line with its average 3.63% range, nothing out of the ordinary.\n\nOverall, the market's been a little more restrained on those pairs, but no big moves to flag.",
     "postId": 386898404497611,
     "shareLink": "https://app.binance.com/uni-qr/cpos/386898404497611?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-10T19:09:20.230Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped to $73,418, down 1.665% after hitting a high of $75,442.01. Volume was about 16.3k BTC, moving $1.21 B in quote terms.\n\n$ETH fell harder, landing at $2,043.54, a 3.764% drop from the day's peak $2,143.44. It traded 328,908 ETH, pushing $681 M in quote volume.\n\n$BNB edged lower too, closing at $674.40, off 1.887% from its $692.64 high. Activity clocked 127,461 BNB, about $87.4 M in quote volume.\n\nWatch the $BTC order-book depth as it approaches the $73k-$74k zone; any shift there could set the tone for the next session.",
-    "postId": 386853110325491,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/386853110325491?r=B492ZGBN&l=en"
   }
 ]
