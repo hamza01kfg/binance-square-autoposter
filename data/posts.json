@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-18T15:29:01.638Z",
+    "theme": "morning-brief",
+    "text": "$BTC slid to $63,573, down 2.16% in 24 h. The high hit $65,268, low sat at $63,085, and about 19,600 BTC changed hands, pushing quote volume past $1.26 B.\n\n$ETH is at $1,772, off 2.05%. It peaked near $1,836 and found support around $1,751.4. Roughly 319 k ETH traded, giving $572 M in quote volume.\n\n$BNB slipped just under 1% to $586.29. The day's range was $580.78-$599.42, with 134 k BNB swapping for about $79.4 M in quote volume.\n\nAll three slipped into the red, but volume stayed solid. Looks like a calm pull-back across the board.",
+    "postId": 389630122064124,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/389630122064124?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-18T05:05:43.292Z",
     "theme": "daily-recap",
     "text": "$BTC slipped to $64,426, down 0.73% after hitting $65,447 earlier. Volume sat around 26 k BTC, pushing $1.68 B in quote flow.\n\n$ETH fell 1.57% to $1,803, with a high of $1,844 and a low of $1,751. Over 350 k ETH changed hands, moving $632 M in USDT.\n\n$BNB edged lower, closing at $592, a 0.34% dip from its $599 top. Trade activity hit 141 k BNB, generating $83.6 M in quote volume.\n\nWatch the $BTC 24-hour range; a break back above $65,000 could test whether the recent pullback was just a pause.",
@@ -201,12 +208,5 @@
     "text": "$INIT surged 62% to $0.288, hitting $0.332 at the high and dumping a hefty $35.6 M in quote volume. $ONE jumped 25% to $0.001745, with a peak of $0.00208 and $28.1 M flowing through. Meanwhile $ZEC slipped 10% down to $1 030, still swinging between $1 200 and $994 and moving a massive $256 M. Gains are blasting off while $ZEC's taking the hit. Looks like the short-term winners are tiny-cap rockets, and the big-cap miner is feeling the pressure.",
     "postId": 386979361161173,
     "shareLink": "https://app.binance.com/uni-qr/cpos/386979361161173?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-10T22:13:38.399Z",
-    "theme": "quiet-movers",
-    "text": "$SNDKBUSDT slipped about 3.8% and only swung 10.2% today, versus its usual 11.8% range, that's roughly a third tighter than normal.\n\n$NEARUSDT dropped just under 1% and moved 8.1% in the last 24 h, a shade tighter than its typical 8% swing, so it's a bit more constrained.\n\n$BTC stayed around $73,931, down 1.5% with a 3.67% daily range, pretty much in line with its average 3.63% range, nothing out of the ordinary.\n\nOverall, the market's been a little more restrained on those pairs, but no big moves to flag.",
-    "postId": 386898404497611,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/386898404497611?r=B492ZGBN&l=en"
   }
 ]
