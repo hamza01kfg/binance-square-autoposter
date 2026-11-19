@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-19T19:49:24.774Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $62,540, down 0.22% after hitting a high of $64,080.8 and a low of $62,062.97. Volume sat around 17.8k, pushing quote volume past $1.12 bn.\n\n$ETH nudged up 1.02% to $1,774.19, trading between $1,748.51 and $1,817.57. The token saw solid activity, 283k units moved, generating roughly $506 mm in quote volume.\n\n$BNB crept 0.94% higher to $584.61, after a swing from $575.37 to $594. Volume was about 99.5k, with quote volume near $58.3 mm.\n\nWatch the $BTC 24-hour range break: a clear breach of the $62,060 support level could set the next price corridor.",
+    "postId": 390048008923235,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/390048008923235?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-19T15:36:15.444Z",
     "theme": "relative-strength",
     "text": "$ETH is up 1.04% against $BTC, so it's gaining ground while $BTC slipped 0.69% in the last 24 h. The 20-coin basket nudged higher too, averaging a 0.93% rise, meaning the average alt outperformed Bitcoin. Bottom line: BTC's the laggard, ETH's pulling ahead, and the broader alt set is modestly stronger than the king. No wild moves, just a quiet shift in relative strength.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $71,652.98, down 2.56% in 24 h, after hitting a high of $74,811.45 and testing the low at $71,293.23. $ETH is at $2,006.51, off 2.28%, with a swing between $2,103.78 and $1,983.82. $BNB fell hardest, sitting at $653.34, down 4.00% after a brief pop to $689.30 and barely breaking $650.01. Volume's still decent, $BTC traded about 15,871 BTC, $ETH moved roughly 250 k, $BNB around 122 k. Keep an eye on whether $BNB can hold above $650; $BTC and $ETH look set to linger near today's lows. Just a flat-lined morning across the board.",
     "postId": 387499513321746,
     "shareLink": "https://app.binance.com/uni-qr/cpos/387499513321746?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-12T04:51:49.730Z",
-    "theme": "leaders-laggards",
-    "text": "$SNDKBUSDT jumped 4.7% to $947.7, carving out a tight range between $897.6 and $1,011.1 with almost $79.2 M in quote volume. $GRAMUSDT nudged up 3.1% to $1.18, holding a band from $1.127 to $1.257 and pulling in $27.2 M. Meanwhile $PEPEUSDT slumped 14.9% to $0.00000457, skidding between $0.0000045 and $0.00000537 while still racking up $79.5 M of volume. One side's pushing higher, the other's getting hammered.",
-    "postId": 387350157800384,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/387350157800384?r=B492ZGBN&l=en"
   }
 ]
