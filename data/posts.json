@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-22T14:25:47.838Z",
+    "theme": "leaders-laggards",
+    "text": "$NEAR surged 3.6% to $3.018, trading between $2.832 and $3.047 with $80.75 M volume. $SOXL jumped 4% to $33.88, swinging from $32.16 up to $34.28 on $25.52 M of trades. Meanwhile $XRP slipped 1.2% to $0.9208, hovering $0.9118-$0.9389 and pulling $80.05 M in volume. Leaders are pushing higher, laggard's just drifting down. Looks like a quiet swing today.",
+    "postId": 391030160327982,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391030160327982?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-22T03:59:36.039Z",
     "theme": "relative-strength",
     "text": "$ETH is up 1.01% against $BTC, so it's nudging ahead of Bitcoin in the pair. Meanwhile $BTC rose 4.724% in the last 24 h, but the 20-coin basket averaged 5.223%, meaning the alt slice is beating Bitcoin overall. ETH's little edge on BTC contrasts with the broader alt outperformance. Nothing wild, just a modest shift in relative strength.",
@@ -201,12 +208,5 @@
     "text": "$ETH slipped against $BTC, down 0.638% to 0.02803 BTC. Meanwhile $BTC fell 2.657% in USD terms, while the 20-coin basket lagged harder, down about 6.32% on average. So BTC's still beating the alt pack, but it's losing ground to $ETH. $ETH's modest gain versus BTC barely offsets the broader sell-off across the basket. Overall a rough 24-hour grind, with everything trending lower.",
     "postId": 388395633693748,
     "shareLink": "https://app.binance.com/uni-qr/cpos/388395633693748?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-14T21:13:35.747Z",
-    "theme": "leaders-laggards",
-    "text": "$BTC slid 6.1% to $64,398, hugging its low of $64,376 after topping $68,633. Meanwhile $UNI plunged 18.2% to $4.72, barely breaking $4.72 on the way down from a high of $5.79. The big picture? Bitcoin's still dragging the market while Uni's the sharpest drop-off in the basket. Nothing wild, just a clear split between the top mover and the biggest loser.",
-    "postId": 388299225626946,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/388299225626946?r=B492ZGBN&l=en"
   }
 ]
