@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-22T03:59:36.039Z",
+    "theme": "relative-strength",
+    "text": "$ETH is up 1.01% against $BTC, so it's nudging ahead of Bitcoin in the pair. Meanwhile $BTC rose 4.724% in the last 24 h, but the 20-coin basket averaged 5.223%, meaning the alt slice is beating Bitcoin overall. ETH's little edge on BTC contrasts with the broader alt outperformance. Nothing wild, just a modest shift in relative strength.",
+    "postId": 390876266122318,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/390876266122318?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-21T22:05:21.434Z",
     "theme": "leaders-laggards",
     "text": "$ETH surged 3.9% to $1,684, hitting $1,716 high before easing back, while $UNI jumped 5.8% to $4.72, flashing $4.79 at its peak. On the flip side, $PEPE slipped 1.4% to $0.00000341, barely nudging above $0.00000351. Leaders grabbed the upside, laggards got knocked down; market's pulling ahead for the big-cap pair and the DeFi token, but the meme coin's losing steam.",
@@ -201,12 +208,5 @@
     "text": "$BTC slid 6.1% to $64,398, hugging its low of $64,376 after topping $68,633. Meanwhile $UNI plunged 18.2% to $4.72, barely breaking $4.72 on the way down from a high of $5.79. The big picture? Bitcoin's still dragging the market while Uni's the sharpest drop-off in the basket. Nothing wild, just a clear split between the top mover and the biggest loser.",
     "postId": 388299225626946,
     "shareLink": "https://app.binance.com/uni-qr/cpos/388299225626946?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-14T17:31:43.496Z",
-    "theme": "breakout-watch",
-    "text": "$BNB swung hard, covering about a 9.5% range in 24 h while it usually hugs a 3.2% band, that's more than double its normal swing.\n\n$UNI was even messier, jumping roughly 19.4% all day versus a typical 7.5% move, so it's also more than twice the usual spread.\n\n$SOL didn't lag far behind, bouncing close to an 11.9% range compared with its average 4.8%, again, over twice the everyday volatility.\n\nAll three busted out of their normal windows; nothing else stood out today.",
-    "postId": 388244698739839,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/388244698739839?r=B492ZGBN&l=en"
   }
 ]
