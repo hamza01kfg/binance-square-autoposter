@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-22T22:21:31.837Z",
+    "theme": "quiet-movers",
+    "text": "$SOXLBUSDT barely budged, its 24-hour swing was just 6.96% versus the usual 22.6%, that's about a third of its normal range. $XRP stayed tight too, moving only 2.92% when it normally sees around 6.4%, so it's roughly half as volatile as usual. $ZEC's day was a bit calmer, with a 6.09% range compared to an 11.8% average, putting it in the somewhat tighter camp. Nothing wild happened; just a calm day for these three.",
+    "postId": 391147076537802,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391147076537802?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-22T18:53:59.057Z",
     "theme": "daily-recap",
     "text": "$BTC held near $60,760, up about 1 % on the day. The pair peaked at $61,670 before slipping back to the low-600s range, with volume just over 20k BTC.\n\n$ETH rallied to $1,715, gaining almost 2 % and touched $1,732 on the upside. It bounced between $1,648 and the high, trading roughly 234k ETH and moving over $395 M in quote volume.\n\n$BNB nudged up to $558.99, +1.9 % after testing $560.57 and finding support near $537. Volume sat around 90k BNB, pushing $49.6 M of quote flow.\n\nWatch the $BTC order-book depth as price hovers between the $60.5K-$61.5K corridor; any shift there could set the tone for the next session.",
@@ -201,12 +208,5 @@
     "text": "$ETH is gaining ground on $BTC, up 0.718% in the BTC-price pair, while $BTC slipped 1.644% overall. The 20-coin basket fell 0.947% on average, so Bitcoin's drop outpaced the alts. In other words, $BTC is underperforming the basket, and $ETH is nudging ahead of $BTC. Nothing wild, just a modest shift in relative strength.",
     "postId": 388610459077779,
     "shareLink": "https://app.binance.com/uni-qr/cpos/388610459077779?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-15T13:48:10.438Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped 2.2% to $65,480, hitting a high of $66,922 before bottoming out near $62,006. $ETH fell 3.3% to $1,832, with the day's range from $1,711 up to $1,895. $BNB dropped just under 2% to $596.6, after rallying to $608.72 and testing $566 on the low side.\n\nVolume stayed solid: BTC traded ~41k coins (~$2.65 B), ETH pushed 619k (~$1.12 B), and BNB moved 275k (~$162 M).\n\nWatch the $BTC 24-hour low-high spread, if it narrows back toward the $66k zone, it could set the next price anchor.",
-    "postId": 388543653183465,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/388543653183465?r=B492ZGBN&l=en"
   }
 ]
