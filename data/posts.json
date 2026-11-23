@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-23T17:53:03.476Z",
+    "theme": "relative-strength",
+    "text": "$ETH nudged 0.14% stronger against $BTC. $BTC itself rose 1.43% in USD terms, but the 20-coin basket jumped about 6.49%, leaving the majors trailing. Altcoins took the day, while the big two barely moved. Nothing wild, just a solid alt rally.",
+    "postId": 391434991024503,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391434991024503?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-23T04:42:39.463Z",
     "theme": "daily-recap",
     "text": "$BTC's up 3.05% to 61,121.61, hit a high of 61,959.93 and slid to a low of 58,768.51. Volume pushed past 21 k coins, quote volume over $1.27 B.\n\n$ETH rallied 3.75% and settled at 1,725.6 after peaking at 1,752.38, with a floor of 1,648.35. Traded about 250 k ETH, $427 M in quote.\n\n$BNB climbed 2.99% to 557.23, touched 563.9, then bounced off 536.85. Around 105 k BNB changed hands, $58.6 M quoted.\n\nWatch the $BTC 24-hour range, its swing of roughly $3.2 K could set the next support/resistance band.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped 0.19% to $64,964, hugging the low of $63,777 after peaking at $66,132. Volume sat around 21.7 K BTC, about $1.41 B in quote. $ETH nudged down 0.08% to $1,822.58, trading between $1,773 and $1,845 with 331 K ETH changing hands ($602 M). $BNB fell 0.52% to $592.42, bounced off a $584.45 low and a $599.72 high, moving 103 K BNB ($61 M).\n\nWatch the $BTC 24-hour range break: if price cracks below $63,700 it could test the next support level.",
     "postId": 388749645922193,
     "shareLink": "https://app.binance.com/uni-qr/cpos/388749645922193?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-15T21:34:03.568Z",
-    "theme": "daily-recap",
-    "text": "$BTC hovered at $64,976, up 0.69% with a high of $66,132 and low of $62,006. Volume hit ~33k BTC, showing a modest flow.\n\n$ETH jumped 2.02% to $1,816, touched $1,845 before slipping to $1,711. Over 489k ETH traded, pushing quote volume past $876 M.\n\n$BNB rose 2.45% to $592.9, peaked at $599.7 and found support near $566. Around 171k BNB changed hands, generating $100 M in quote volume.\n\nWatch the $BTC intraday range around $66k-$62k; any break of that band could set the tone for the next session.",
-    "postId": 388658149170450,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/388658149170450?r=B492ZGBN&l=en"
   }
 ]
