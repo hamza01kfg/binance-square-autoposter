@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-24T07:33:34.368Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $60,473, down 1.65% on the day, after peaking at $64,603 and hitting a low of $59,455. Volume held around 28.4 k BTC, pushing quote volume past $1.76 B.\n\n$ETH fell 1.6% to $1,697, with the high at $1,845 and the floor at $1,669. Trade flow stayed solid, about 457 k ETH changing hands and $800 M in quote volume.\n\n$BNB edged lower, closing at $552.6, a 0.8% dip. The token bounced between $544.7 and $587.4, moving roughly 160 k BNB for $90 M in quote volume.\n\nWatch the $BTC 24-hour range break: if it squeezes back toward the $64 k high, volatility could spike again.",
+    "postId": 391636640854438,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391636640854438?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-24T03:12:14.565Z",
     "theme": "morning-brief",
     "text": "$BTC slid to $59,979.61, down 1.739% in 24h. It peaked at $64,603.12 but couldn't hold, finding a floor near $59,574.43. Volume sat around 28.7k with $1.78 B traded.\n\n$ETH dropped to $1,682.86, a 2.063% pullback. The high hit $1,845.07, low stuck at $1,669.0. Roughly 464.8k ETH changed hands, moving $814.6 M.\n\n$BNB nudged lower to $549.19, off 1.381%. Max was $587.36, min $544.65. It saw 172.5k coins swapping, $97.4 M in quote volume.\n\nAll three sat under their recent highs, showing a broad dip across the board. Keep an eye on whether any breaks back above those peaks happen soon.",
@@ -201,12 +208,5 @@
     "text": "$ASTER surged 15.7% to $0.5756, punching up from a low of $0.4955 and ending near its $0.5788 high. $RARE wasn't far behind, climbing 10% to $0.0136 after bouncing between $0.0114 and $0.0183. Meanwhile $SOXL tumbled 15.8% to $48.85, sliding from a $59.23 peak down to $46.99. Leaders grabbed the upside, laggards took the hit, just another wild 24-hour swing.",
     "postId": 389058221777771,
     "shareLink": "https://app.binance.com/uni-qr/cpos/389058221777771?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-16T21:29:10.575Z",
-    "theme": "relative-strength",
-    "text": "$ETH nudged up 0.036% against $BTC, so it's gaining a hair of relative strength. $BTC itself rose 0.388% over the last 24 h. The 20-coin basket of top alts slipped 0.92% on average, leaving $BTC ahead of the pack. ETH's tiny edge on BTC is the only bright spot; the rest of the market stayed in the red. Nothing wild, just a modest BTC lead and a whisper of ETH out-performing.",
-    "postId": 389010843487214,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/389010843487214?r=B492ZGBN&l=en"
   }
 ]
