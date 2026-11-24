@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-24T03:12:14.565Z",
+    "theme": "morning-brief",
+    "text": "$BTC slid to $59,979.61, down 1.739% in 24h. It peaked at $64,603.12 but couldn't hold, finding a floor near $59,574.43. Volume sat around 28.7k with $1.78 B traded.\n\n$ETH dropped to $1,682.86, a 2.063% pullback. The high hit $1,845.07, low stuck at $1,669.0. Roughly 464.8k ETH changed hands, moving $814.6 M.\n\n$BNB nudged lower to $549.19, off 1.381%. Max was $587.36, min $544.65. It saw 172.5k coins swapping, $97.4 M in quote volume.\n\nAll three sat under their recent highs, showing a broad dip across the board. Keep an eye on whether any breaks back above those peaks happen soon.",
+    "postId": 391572416282082,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391572416282082?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-23T23:10:42.633Z",
     "theme": "leaders-laggards",
     "text": "$SOXLBUSDT surged 29% to $43.27, hitting a high of $45.38 after swinging from $32.96. $NVDABUSDT rode a 24% gain, closing at $165.77, with the range $130.54-$171.47. Meanwhile $ZECUSDT slipped 1.6% to $775.61, down from a peak of $903.48 and barely holding above $766.56. Leaders ripped ahead, laggards just nudged lower.",
@@ -201,12 +208,5 @@
     "text": "$ETH nudged up 0.036% against $BTC, so it's gaining a hair of relative strength. $BTC itself rose 0.388% over the last 24 h. The 20-coin basket of top alts slipped 0.92% on average, leaving $BTC ahead of the pack. ETH's tiny edge on BTC is the only bright spot; the rest of the market stayed in the red. Nothing wild, just a modest BTC lead and a whisper of ETH out-performing.",
     "postId": 389010843487214,
     "shareLink": "https://app.binance.com/uni-qr/cpos/389010843487214?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-16T15:30:12.539Z",
-    "theme": "relative-strength",
-    "text": "$ETH is gaining a bit on $BTC, up 0.572% vs BTC's 0.43% drop. Meanwhile the 20-coin basket is ahead of Bitcoin, averaging a 2.73% rise. So BTC's underperforming both the alt basket and its main rival, while $ETH nudges ahead in the pair. Nothing wild, just $ETH tightening on $BTC and the alts taking the lead.",
-    "postId": 388922623701388,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/388922623701388?r=B492ZGBN&l=en"
   }
 ]
