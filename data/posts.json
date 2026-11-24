@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-24T21:48:03.207Z",
+    "theme": "daily-recap",
+    "text": "$BTC slipped to $59,918, down 1.9% after hitting a high of $61,682 and a low of $59,260. Volume hovered around 19.9k BTC.\n\n$ETH fell 1.9% to $1,681.86, sliding from a peak of $1,724.83 down to $1,664.18. Roughly 321k ETH changed hands.\n\n$BNB dropped 1.3% to $549.70, after peaking at $562.19 and testing $543.26. About 93.7k BNB traded.\n\nWatch the $BTC 24-hour range, if it breaks back above $61k it could set the tone for the next session.",
+    "postId": 391846638024183,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/391846638024183?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-24T17:25:50.975Z",
     "theme": "leaders-laggards",
     "text": "$SOXSB surged 22.9% to $61.09, trading between $47.38 and $63.92 with over $24 M in volume. $MMT also jumped, up 18.9% to $0.2295, its range $0.1861-$0.2749 and $21 M volume. Meanwhile $ZEC slid 14.9% to $711.64, swinging from $704.88 up to $836.69 and crushing $148 M of volume. Leaders are blasting higher, laggards are pulling back hard. Nothing wild, just a clear split in the last day.",
@@ -201,12 +208,5 @@
     "text": "$ZEC surged 5.58% to $920.85, hitting a high of $959.95 before easing back. $UNI nudged up 1.5% to $5.21, trading in a tight $5.08-$5.45 range. Meanwhile $SOXL tanked 11.44% down to $45.07, sliding from a peak of $52.71 and barely holding above $44.40. Leaders grabbed upside while the laggard ripped hard lower, just the way 24-hour swings go.",
     "postId": 389281629939313,
     "shareLink": "https://app.binance.com/uni-qr/cpos/389281629939313?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-17T05:41:16.083Z",
-    "theme": "relative-strength",
-    "text": "$ETH/$BTC is at 0.02831 and nudged up 0.855% against $BTC. Meanwhile $BTC itself rose 0.325% in the last 24 h. The 20-coin basket's average alt gain was 0.642%, so the whole alt set outpaced $BTC by a hair. Bottom line: $ETH is pulling a bit of strength on the BTC chart, and the broader alt crowd is doing slightly better than $BTC overall. Nothing wild, just a modest tilt toward the rest.",
-    "postId": 389131779932873,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/389131779932873?r=B492ZGBN&l=en"
   }
 ]
