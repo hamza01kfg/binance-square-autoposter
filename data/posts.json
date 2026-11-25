@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-25T20:55:10.338Z",
+    "theme": "morning-brief",
+    "text": "$BTC sat at $60,200.72, up 0.72% in 24 h. The high hit $60,405.44, low $57,300.38, with 26,411 BTC traded and about $1.56 B in quote volume.\n\n$ETH nudged to $1,688.45, gaining 0.74%. It peaked at $1,698.72, bottomed at $1,608.86, and moved 392,411 ETH for roughly $649.8 M.\n\n$BNB edged higher to $553.83, +0.87%. The session's high was $555.38, low $526.72, volume 119,363 BNB and $64.5 M in quote volume.\n\nAll three slipped a bit lower after testing their highs, so keep an eye on whether they hold above those peaks.",
+    "postId": 392187536301033,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/392187536301033?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-25T17:01:54.449Z",
     "theme": "morning-brief",
     "text": "$BTC slipped to $58,534, down 1.52% in 24 h, after peaking at $60,295 and testing a low of $57,300. $ETH fell 1.47% to $1,645, having touched $1,689 on the upside and bounced off $1,609. $BNB slid 1.09% to $539, with a high of $552 and a floor around $527. Volume stayed solid across the board, BTC moved about 23,200 coins, ETH over 337 k, BNB near 111 k. Watch the next session for any reaction around those recent highs; the market's just grinding lower across the three majors.",
@@ -201,12 +208,5 @@
     "text": "$BTC slid to $63,573, down 2.16% in 24 h. The high hit $65,268, low sat at $63,085, and about 19,600 BTC changed hands, pushing quote volume past $1.26 B.\n\n$ETH is at $1,772, off 2.05%. It peaked near $1,836 and found support around $1,751.4. Roughly 319 k ETH traded, giving $572 M in quote volume.\n\n$BNB slipped just under 1% to $586.29. The day's range was $580.78-$599.42, with 134 k BNB swapping for about $79.4 M in quote volume.\n\nAll three slipped into the red, but volume stayed solid. Looks like a calm pull-back across the board.",
     "postId": 389630122064124,
     "shareLink": "https://app.binance.com/uni-qr/cpos/389630122064124?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-18T05:05:43.292Z",
-    "theme": "daily-recap",
-    "text": "$BTC slipped to $64,426, down 0.73% after hitting $65,447 earlier. Volume sat around 26 k BTC, pushing $1.68 B in quote flow.\n\n$ETH fell 1.57% to $1,803, with a high of $1,844 and a low of $1,751. Over 350 k ETH changed hands, moving $632 M in USDT.\n\n$BNB edged lower, closing at $592, a 0.34% dip from its $599 top. Trade activity hit 141 k BNB, generating $83.6 M in quote volume.\n\nWatch the $BTC 24-hour range; a break back above $65,000 could test whether the recent pullback was just a pause.",
-    "postId": 389476938511371,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/389476938511371?r=B492ZGBN&l=en"
   }
 ]
