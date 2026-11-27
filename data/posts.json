@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-27T00:58:14.456Z",
+    "theme": "morning-brief",
+    "text": "$BTC's at $60,690, up 0.355% in 24h. It bounced off the low of $59,915, nudged a fresh high near $61,126 before settling near the current level. Volume's around 15.2k BTC, translating to roughly $924.6 M in quote volume.\n\n$ETH sits at $1,700.75, up 0.339%. The pair swung between $1,667.94 and $1,711.68, with hefty activity, about 201.6k ETH traded, about $341.8 M in quote volume.\n\n$BNB's trading at $555.89, a modest 0.171% gain. It ranged from $544.61 to $561.36, moving 84.2k BNB and $46.7 M in quote volume.\n\nAll three nudged higher, staying within tight ranges. Keep an eye on whether the next bar can push past today's highs; otherwise they might just drift around these levels.",
+    "postId": 392601167334477,
+    "shareLink": "https://app.binance.com/uni-qr/cpos/392601167334477?r=B492ZGBN&l=en"
+  },
+  {
     "date": "2026-11-26T20:46:54.964Z",
     "theme": "leaders-laggards",
     "text": "$INIT surged 67.3% to $0.143, hitting a high of $0.1488 while volume topped $22.5 M. Meanwhile $MMT slumped 33.3% to $0.2055, its low at $0.1831 and $34 M traded. $ZEC also fell, down 5.2% to $717.66, trading between $662.62 and $789 with almost $192 M in volume. One pair rockets, the other two tumble, just the way crypto rolls.",
@@ -201,12 +208,5 @@
     "text": "$BTC slipped to $62,540, down 0.22% after hitting a high of $64,080.8 and a low of $62,062.97. Volume sat around 17.8k, pushing quote volume past $1.12 bn.\n\n$ETH nudged up 1.02% to $1,774.19, trading between $1,748.51 and $1,817.57. The token saw solid activity, 283k units moved, generating roughly $506 mm in quote volume.\n\n$BNB crept 0.94% higher to $584.61, after a swing from $575.37 to $594. Volume was about 99.5k, with quote volume near $58.3 mm.\n\nWatch the $BTC 24-hour range break: a clear breach of the $62,060 support level could set the next price corridor.",
     "postId": 390048008923235,
     "shareLink": "https://app.binance.com/uni-qr/cpos/390048008923235?r=B492ZGBN&l=en"
-  },
-  {
-    "date": "2026-11-19T15:36:15.444Z",
-    "theme": "relative-strength",
-    "text": "$ETH is up 1.04% against $BTC, so it's gaining ground while $BTC slipped 0.69% in the last 24 h. The 20-coin basket nudged higher too, averaging a 0.93% rise, meaning the average alt outperformed Bitcoin. Bottom line: BTC's the laggard, ETH's pulling ahead, and the broader alt set is modestly stronger than the king. No wild moves, just a quiet shift in relative strength.",
-    "postId": 389985793439410,
-    "shareLink": "https://app.binance.com/uni-qr/cpos/389985793439410?r=B492ZGBN&l=en"
   }
 ]
